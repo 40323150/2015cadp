@@ -2044,15 +2044,15 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;有關我的作業&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;h1&gt;40323150&lt;/h1&gt;
+    &lt;p&gt;40323150&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h1&gt;40323150&lt;/h1&gt;
+    &lt;p&gt;40323150&lt;/p&gt;
+    &lt;p&gt;60323150 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
