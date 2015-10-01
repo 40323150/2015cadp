@@ -270,7 +270,11 @@
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
 <v t="ibm.20150918175403.5" a="E"><vh>div class="reveal"</vh>
 <v t="ibm.20150918175403.6" a="E"><vh>div class="slides"</vh>
+<<<<<<< HEAD
 <v t="ibm.20150918175403.7"><vh>40323150</vh></v>
+=======
+<v t="ibm.20150918175403.7"><vh>有關我的作業</vh></v>
+>>>>>>> 6372fbd52823f952336b304822f8a5030432500b
 <v t="ibm.20150918175403.8"><vh>課程規劃</vh></v>
 <v t="ibm.20150918175403.9"><vh>作業規劃</vh></v>
 <v t="ibm.20150918175711.1"><vh>Git 操作</vh></v>
@@ -489,6 +493,7 @@
 </v>
 </v>
 </v>
+<<<<<<< HEAD
 <v t="fuck.20151001124553.1" a="E"><vh>Recovered Nodes</vh>
 <v t="fuck.20151001124553.2"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
 <v t="fuck.20151001124553.3"><vh>old:html 標註</vh></v>
@@ -497,6 +502,14 @@
 </v>
 </vnodes>
 <tnodes>
+=======
+</vnodes>
+<tnodes>
+<t tx="amd.20150913232627.2">@language xml
+@tabwidth -4
+@others
+</t>
+>>>>>>> 6372fbd52823f952336b304822f8a5030432500b
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1989,6 +2002,12 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
 	&lt;![endif]--&gt;
 &lt;/head&gt;
+<<<<<<< HEAD
+=======
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+&lt;/html&gt;
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
+>>>>>>> 6372fbd52823f952336b304822f8a5030432500b
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
@@ -2146,6 +2165,7 @@ import os
 os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-bootstrap3
 ''')
 g.es("pelican 執行完畢")</t>
+<<<<<<< HEAD
 <t tx="fuck.20151001124553.1"></t>
 <t tx="fuck.20151001124553.2">(uncached) amd.20150915211351.1
 Diff...
@@ -2197,6 +2217,8 @@ Diff...
 &lt;/head&gt;
 @others
 </t>
+=======
+>>>>>>> 6372fbd52823f952336b304822f8a5030432500b
 <t tx="ibm.20150918175403.1">@language xml
 @tabwidth -4
 @others
@@ -2249,7 +2271,11 @@ Diff...
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
+<<<<<<< HEAD
     &lt;h1&gt;救救我啊我救我&lt;/h1&gt;
+=======
+    &lt;h1&gt;計算機程式&lt;/h1&gt;
+>>>>>>> 6372fbd52823f952336b304822f8a5030432500b
     &lt;p&gt;第1週教學內容&lt;/p&gt;		
 &lt;/section&gt;
 	</t>
