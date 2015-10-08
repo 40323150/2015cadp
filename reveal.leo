@@ -71,7 +71,7 @@
 <v t="amd.20150915155634.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915155634.7"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915155634.8"><vh>body</vh>
+<v t="amd.20150915155634.8" a="E"><vh>body</vh>
 <v t="amd.20150915155634.9" a="E"><vh>div - reveal</vh>
 <v t="amd.20150915155634.10" a="E"><vh>div - slides</vh>
 <v t="amd.20150915155634.11"><vh>h1 - 課程說明</vh></v>
@@ -107,7 +107,7 @@
 </v>
 </v>
 <v t="amd.20150915155634.36"><vh>h2</vh></v>
-<v t="amd.20150915155634.37"><vh>p</vh>
+<v t="amd.20150915155634.37" a="E"><vh>p</vh>
 <v t="amd.20150915155634.38"><vh>a</vh></v>
 <v t="amd.20150915155634.39"><vh>a</vh></v>
 <v t="amd.20150915155634.40"><vh>a</vh></v>
@@ -264,7 +264,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
@@ -282,7 +282,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -489,10 +489,20 @@
 </v>
 </v>
 </v>
-<v t="000.20151008125800.2" a="E"><vh>Recovered Nodes</vh>
+<v t="000.20151008125800.2"><vh>Recovered Nodes</vh>
 <v t="000.20151008125800.3"><vh>Recovered node "有關我的作業" from @clean cpw1.html</vh>
 <v t="000.20151008125800.4"><vh>old:有關我的作業</vh></v>
 <v t="000.20151008125800.5"><vh>new:有關我的作業</vh></v>
+</v>
+</v>
+<v t="000.20151008143108.2"><vh>Recovered Nodes</vh>
+<v t="000.20151008143108.3"><vh>Recovered node "有關我的作業" from @clean simplest.html</vh>
+<v t="000.20151008143108.4"><vh>old:有關我的作業</vh></v>
+<v t="000.20151008143108.5"><vh>new:有關我的作業</vh></v>
+</v>
+<v t="000.20151008143108.6"><vh>Recovered node "作業任務一" from @clean simplest.html</vh>
+<v t="000.20151008143108.7"><vh>old:作業任務一</vh></v>
+<v t="000.20151008143108.8"><vh>new:作業任務一</vh></v>
 </v>
 </v>
 </vnodes>
@@ -533,6 +543,77 @@ Diff...
     &lt;p&gt;第1週教學內容&lt;/p&gt;		
 &lt;/section&gt;
 	
+</t>
+<t tx="000.20151008143108.2"></t>
+<t tx="000.20151008143108.3">(uncached) amd.20150915211351.7
+Diff...
+  &lt;!-- 以下為投影片 --&gt;
+  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+- &lt;section id="hw-task-one" data-background="#001100"&gt;
++ &lt;section id="hw-task-one"&gt;
+      &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
+      &lt;p&gt;四設計二甲40323150詹晟弘 104/10/01&lt;/p&gt;		
+  &lt;/section&gt;
+  &lt;section&gt;
+      &lt;section&gt;
+      &lt;h1&gt;作業Mission-1&lt;/h1&gt;
+      &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
+      &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
+</t>
+<t tx="000.20151008143108.4">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
+    &lt;p&gt;四設計二甲40323150詹晟弘 104/10/01&lt;/p&gt;		
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-1&lt;/h1&gt;
+    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
+    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
+</t>
+<t tx="000.20151008143108.5">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section id="hw-task-one" data-background="#001100"&gt;
+    &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
+    &lt;p&gt;四設計二甲40323150詹晟弘 104/10/01&lt;/p&gt;		
+&lt;/section&gt;
+&lt;section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-1&lt;/h1&gt;
+    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
+    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
+</t>
+<t tx="000.20151008143108.6">(uncached) amd.20150915211351.9
+Diff...
+      &lt;/section&gt;
+      
+-     &lt;section data-background="#dddddd"&gt;
+-     &lt;h1 data-color="#001100"&gt;作業Mission-1&lt;/h1&gt;	
++     &lt;section&gt; 
++     &lt;h1&gt;**建立分支 #1**&lt;/h1&gt;
+      &lt;/section&gt;
+  &lt;/section&gt;
+  				
+</t>
+<t tx="000.20151008143108.7">    &lt;/section&gt;
+    
+    &lt;section&gt; 
+    &lt;h1&gt;**建立分支 #1**&lt;/h1&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="000.20151008143108.8">    &lt;/section&gt;
+    
+    &lt;section data-background="#dddddd"&gt;
+    &lt;h1 data-color="#001100"&gt;作業Mission-1&lt;/h1&gt;	
+    &lt;/section&gt;
+&lt;/section&gt;
+				
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
@@ -2062,7 +2143,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 <t tx="amd.20150915211351.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one"&gt;
+&lt;section id="hw-task-one" data-background="#001100"&gt;
     &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
     &lt;p&gt;四設計二甲40323150詹晟弘 104/10/01&lt;/p&gt;		
 &lt;/section&gt;
@@ -2074,8 +2155,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 </t>
 <t tx="amd.20150915211351.9">    &lt;/section&gt;
     
-    &lt;section&gt; 
-    &lt;h1&gt;**建立分支 #1**&lt;/h1&gt;
+    &lt;section data-background="#dddddd"&gt;
+    &lt;h1 data-color="#001100"&gt;作業Mission-1&lt;/h1&gt;	
     &lt;/section&gt;
 &lt;/section&gt;
 				
