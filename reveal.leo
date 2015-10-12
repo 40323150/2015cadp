@@ -37,10 +37,10 @@
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="leo.20151012231334.1"><vh>@edit 2015cphww2.md</vh></v>
+<v t="leo.20151012231334.1"><vh>@edit 2015cphww100.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
-<v t="amd.20150913233943.1" a="E"><vh>@clean cadpbw1.html</vh>
+<v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
 <v t="amd.20150913233943.4"><vh>title</vh></v>
@@ -65,7 +65,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915155634.1" a="E"><vh>@clean cadpaw1.html</vh>
+<v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
 <v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
@@ -265,7 +265,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
@@ -298,7 +298,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915170743.1" a="E"><vh>@clean v31ref.html</vh>
+<v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
 <v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915170743.3" a="E"><vh>head</vh>
 <v t="amd.20150915170743.4"><vh>title - 標題</vh></v>
