@@ -71,7 +71,7 @@
 <v t="amd.20150915155634.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915155634.7"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915155634.8" a="E"><vh>body</vh>
+<v t="amd.20150915155634.8"><vh>body</vh>
 <v t="amd.20150915155634.9" a="E"><vh>div - reveal</vh>
 <v t="amd.20150915155634.10" a="E"><vh>div - slides</vh>
 <v t="amd.20150915155634.11"><vh>h1 - 課程說明</vh></v>
@@ -107,7 +107,7 @@
 </v>
 </v>
 <v t="amd.20150915155634.36"><vh>h2</vh></v>
-<v t="amd.20150915155634.37" a="E"><vh>p</vh>
+<v t="amd.20150915155634.37"><vh>p</vh>
 <v t="amd.20150915155634.38"><vh>a</vh></v>
 <v t="amd.20150915155634.39"><vh>a</vh></v>
 <v t="amd.20150915155634.40"><vh>a</vh></v>
@@ -264,7 +264,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
@@ -282,7 +282,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -489,131 +489,11 @@
 </v>
 </v>
 </v>
-<v t="000.20151008125800.2"><vh>Recovered Nodes</vh>
-<v t="000.20151008125800.3"><vh>Recovered node "有關我的作業" from @clean cpw1.html</vh>
-<v t="000.20151008125800.4"><vh>old:有關我的作業</vh></v>
-<v t="000.20151008125800.5"><vh>new:有關我的作業</vh></v>
-</v>
-</v>
-<v t="000.20151008143108.2"><vh>Recovered Nodes</vh>
-<v t="000.20151008143108.3"><vh>Recovered node "有關我的作業" from @clean simplest.html</vh>
-<v t="000.20151008143108.4"><vh>old:有關我的作業</vh></v>
-<v t="000.20151008143108.5"><vh>new:有關我的作業</vh></v>
-</v>
-<v t="000.20151008143108.6"><vh>Recovered node "作業任務一" from @clean simplest.html</vh>
-<v t="000.20151008143108.7"><vh>old:作業任務一</vh></v>
-<v t="000.20151008143108.8"><vh>new:作業任務一</vh></v>
-</v>
-</v>
 </vnodes>
 <tnodes>
-<t tx="000.20151008125800.2"></t>
-<t tx="000.20151008125800.3">(uncached) ibm.20150918175403.7
-Diff...
-  &lt;!-- 以下為投影片 --&gt;
-  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-  &lt;section&gt;
-- &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
--     &lt;h1&gt;救救我啊我救我&lt;/h1&gt;
-- =======
-      &lt;h1&gt;計算機程式&lt;/h1&gt;
-- &gt;&gt;&gt;&gt;&gt;&gt;&gt; 6372fbd52823f952336b304822f8a5030432500b
-      &lt;p&gt;第1週教學內容&lt;/p&gt;		
-  &lt;/section&gt;
-- 	
-+ 	</t>
-<t tx="000.20151008125800.4">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;計算機程式&lt;/h1&gt;
-    &lt;p&gt;第1週教學內容&lt;/p&gt;		
-&lt;/section&gt;
-	</t>
-<t tx="000.20151008125800.5">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-    &lt;h1&gt;救救我啊我救我&lt;/h1&gt;
-=======
-    &lt;h1&gt;計算機程式&lt;/h1&gt;
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 6372fbd52823f952336b304822f8a5030432500b
-    &lt;p&gt;第1週教學內容&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="000.20151008143108.2"></t>
-<t tx="000.20151008143108.3">(uncached) amd.20150915211351.7
-Diff...
-  &lt;!-- 以下為投影片 --&gt;
-  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-- &lt;section id="hw-task-one" data-background="#001100"&gt;
-+ &lt;section id="hw-task-one"&gt;
-      &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
-      &lt;p&gt;四設計二甲40323150詹晟弘 104/10/01&lt;/p&gt;		
-  &lt;/section&gt;
-  &lt;section&gt;
-      &lt;section&gt;
-      &lt;h1&gt;作業Mission-1&lt;/h1&gt;
-      &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-      &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
-</t>
-<t tx="000.20151008143108.4">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
-    &lt;p&gt;四設計二甲40323150詹晟弘 104/10/01&lt;/p&gt;		
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;section&gt;
-    &lt;h1&gt;作業Mission-1&lt;/h1&gt;
-    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
-</t>
-<t tx="000.20151008143108.5">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one" data-background="#001100"&gt;
-    &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
-    &lt;p&gt;四設計二甲40323150詹晟弘 104/10/01&lt;/p&gt;		
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;section&gt;
-    &lt;h1&gt;作業Mission-1&lt;/h1&gt;
-    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
-</t>
-<t tx="000.20151008143108.6">(uncached) amd.20150915211351.9
-Diff...
-      &lt;/section&gt;
-      
--     &lt;section data-background="#dddddd"&gt;
--     &lt;h1 data-color="#001100"&gt;作業Mission-1&lt;/h1&gt;	
-+     &lt;section&gt; 
-+     &lt;h1&gt;**建立分支 #1**&lt;/h1&gt;
-      &lt;/section&gt;
-  &lt;/section&gt;
-  				
-</t>
-<t tx="000.20151008143108.7">    &lt;/section&gt;
-    
-    &lt;section&gt; 
-    &lt;h1&gt;**建立分支 #1**&lt;/h1&gt;
-    &lt;/section&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="000.20151008143108.8">    &lt;/section&gt;
-    
-    &lt;section data-background="#dddddd"&gt;
-    &lt;h1 data-color="#001100"&gt;作業Mission-1&lt;/h1&gt;	
-    &lt;/section&gt;
-&lt;/section&gt;
-				
+<t tx="amd.20150913232627.2">@language xml
+@tabwidth -4
+@others
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
@@ -2107,13 +1987,15 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
 	&lt;![endif]--&gt;
 &lt;/head&gt;
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+&lt;/html&gt;
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;成績自評分數＆心得&lt;/h1&gt;
-    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
-    自評:80&lt;/p&gt;
-    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2143,20 +2025,16 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 <t tx="amd.20150915211351.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one" data-background="#001100"&gt;
-    &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
-    &lt;p&gt;四設計二甲40323150詹晟弘 104/10/01&lt;/p&gt;		
+&lt;section&gt;
+    &lt;h1&gt;有關我的作業&lt;/h1&gt;
+    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
 &lt;/section&gt;
+	
 </t>
-<t tx="amd.20150915211351.9">&lt;section&gt;
-    &lt;section&gt;
-    &lt;h1&gt;作業Mission-1&lt;/h1&gt;
-    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
-    &lt;/section&gt;
-    &lt;section data-background="#dddddd"&gt;
-    &lt;h1 data-color="#001100"&gt;建立分支#1 更換背景&lt;/h1&gt;	
-    &lt;/section&gt;
+<t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;作業任務一&lt;/h1&gt;
+    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2281,8 +2159,7 @@ g.es("pelican 執行完畢")</t>
     Reveal.initialize({
     });
 &lt;/script&gt;
-	
-</t>
+	</t>
 <t tx="ibm.20150918175403.2">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
@@ -2303,8 +2180,7 @@ g.es("pelican 執行完畢")</t>
 	&lt;![endif]--&gt;
 &lt;/head&gt;
 @others
-&lt;/html&gt;
-</t>
+&lt;/html&gt;</t>
 <t tx="ibm.20150918175403.4">&lt;body&gt;
 @others
 &lt;/body&gt;
@@ -2323,29 +2199,22 @@ g.es("pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-    &lt;h1&gt;救救我啊我救我&lt;/h1&gt;
-=======
     &lt;h1&gt;計算機程式&lt;/h1&gt;
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 6372fbd52823f952336b304822f8a5030432500b
     &lt;p&gt;第1週教學內容&lt;/p&gt;		
 &lt;/section&gt;
-	
-</t>
+	</t>
 <t tx="ibm.20150918175403.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;課程規劃&lt;/h1&gt;
     &lt;p&gt;教科書&lt;/p&gt;
     &lt;p&gt;請參考 &lt;a href="http://openbookproject.net/thinkcs/python/english3e/"&gt;http://openbookproject.net/thinkcs/python/english3e/&lt;/a&gt;
 &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="ibm.20150918175403.9">&lt;section&gt;
     &lt;h1&gt;作業規劃&lt;/h1&gt;
     &lt;p&gt;影片內容&lt;/p&gt;
     &lt;a href="https://www.youtube.com/watch?v=9uq3w6JJS00"&gt;Zero to hero with Python&lt;/a&gt;
 &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="ibm.20150918175711.1">&lt;section&gt;
     &lt;h1&gt;Git 操作&lt;/h1&gt;
     &lt;p&gt;git clone&lt;/p&gt;
@@ -2354,20 +2223,17 @@ g.es("pelican 執行完畢")</t>
     &lt;p&gt;git add -A&lt;/p&gt;
     &lt;p&gt;git commit -m&lt;/p&gt;
     &lt;p&gt;git push&lt;/p&gt;
-&lt;/section&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="ibm.20150918175951.1">&lt;section&gt;
     &lt;h1&gt;Jupyter 操作&lt;/h1&gt;
     &lt;p&gt;啟動&lt;/p&gt;
     &lt;p&gt;基本執行&lt;/p&gt;
-&lt;/section&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="ibm.20150918181528.1">&lt;section&gt;
     &lt;h1&gt;結論&lt;/h1&gt;
     &lt;p&gt;自主開放學習&lt;/p&gt;
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
-&lt;/section&gt;
-</t>
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
