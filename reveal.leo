@@ -37,9 +37,10 @@
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151012231334.1"><vh>@edit 2015cphww2.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
-<v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
+<v t="amd.20150913233943.1" a="E"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
 <v t="amd.20150913233943.4"><vh>title</vh></v>
@@ -64,7 +65,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
+<v t="amd.20150915155634.1" a="E"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
 <v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
@@ -264,7 +265,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
@@ -297,7 +298,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
+<v t="amd.20150915170743.1" a="E"><vh>@clean v31ref.html</vh>
 <v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915170743.3" a="E"><vh>head</vh>
 <v t="amd.20150915170743.4"><vh>title - 標題</vh></v>
@@ -2156,7 +2157,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;/section&gt;
     &lt;section data-background="#dddddd"&gt;
     &lt;h1 data-color="#001100"&gt;建立分支#1&lt;/h1&gt; 
-    &lt;h1&gt;更換背景	
+    &lt;h1&gt;更換背景&lt;/h1&gt;	
     &lt;/section&gt;
 &lt;/section&gt;
 				
@@ -2325,7 +2326,7 @@ g.es("pelican 執行完畢")</t>
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
 &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-    &lt;h1&gt;救救我啊我救我&lt;/h1&gt;
+    &lt;h1&gt;計算機程式&lt;/h1&gt;
 =======
     &lt;h1&gt;計算機程式&lt;/h1&gt;
 &gt;&gt;&gt;&gt;&gt;&gt;&gt; 6372fbd52823f952336b304822f8a5030432500b
