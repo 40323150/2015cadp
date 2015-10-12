@@ -2155,7 +2155,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
     &lt;/section&gt;
     &lt;section data-background="#dddddd"&gt;
-    &lt;h1 data-color="#001100"&gt;建立分支#1 更換背景&lt;/h1&gt;	
+    &lt;h1 data-color="#001100"&gt;建立分支#1 
+    更換背景&lt;/h1&gt;	
     &lt;/section&gt;
 &lt;/section&gt;
 				
