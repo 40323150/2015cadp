@@ -2147,16 +2147,15 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
     &lt;p&gt;四設計二甲40323150詹晟弘 104/10/01&lt;/p&gt;		
 &lt;/section&gt;
-&lt;section&gt;
+</t>
+<t tx="amd.20150915211351.9">&lt;section&gt;
     &lt;section&gt;
     &lt;h1&gt;作業Mission-1&lt;/h1&gt;
     &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
     &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
-</t>
-<t tx="amd.20150915211351.9">    &lt;/section&gt;
-    
+    &lt;/section&gt;
     &lt;section data-background="#dddddd"&gt;
-    &lt;h1 data-color="#001100"&gt;作業Mission-1&lt;/h1&gt;	
+    &lt;h1 data-color="#001100"&gt;建立分支#1 更換背景&lt;/h1&gt;	
     &lt;/section&gt;
 &lt;/section&gt;
 				
