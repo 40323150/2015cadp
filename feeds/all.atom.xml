@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/all.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2015-09-19T11:41:00+08:00</updated><entry><title>2015 電腦輔助設計實習 作業一</title><link href="http://example.com/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-09-19:2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015-電腦輔助設計實習課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/all.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2015-10-01T11:41:00+08:00</updated><entry><title>2015 電腦輔助設計實習 作業三</title><link href="http://example.com/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-10-01T11:41:00+08:00</updated><author><name>40323150</name></author><id>tag:example.com,2015-10-01:2015cp_hw_w3.html</id><summary type="html">&lt;p&gt;以下為作業3內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業3投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;使用 H3 標題&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業二</title><link href="http://example.com/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-24T11:41:00+08:00</updated><author><name>40323150</name></author><id>tag:example.com,2015-09-24:2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;以下為作業2內容&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業2投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;使用 H2 標題&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業一</title><link href="http://example.com/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-17T13:20:00+08:00</updated><author><name>40323150</name></author><id>tag:example.com,2015-09-17:2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
@@ -96,14 +106,4 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 &lt;p&gt;註腳會連結到這裡.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業二</title><link href="http://example.com/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-09-19:2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;以下為作業2內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業2投影片&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;使用 H2 標題&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業3</title><link href="http://example.com/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:example.com,2015-09-19:2015cp_hw_w3.html</id><summary type="html">&lt;p&gt;以下為作業3內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業3投影片&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;使用 H3 標題&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
