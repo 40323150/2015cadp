@@ -28,6 +28,7 @@
 <v t="amd.20150919104249.1"><vh>檢查 profile 位置</vh></v>
 </v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
+<v t="232.20151022142650.1"><vh>IPython notebook 整合</vh></v>
 <v t="amd.20150919112710.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
@@ -35,10 +36,12 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151012231334.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="123.20151015140914.1"><vh>@edit 2015cphww3.md</vh></v>
+<v t="232.20151022141150.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="232.20151022141516.1"><vh>@edit 2015cphww5.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -284,7 +287,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -491,132 +494,15 @@
 </v>
 </v>
 </v>
-<v t="000.20151008125800.2"><vh>Recovered Nodes</vh>
-<v t="000.20151008125800.3"><vh>Recovered node "有關我的作業" from @clean cpw1.html</vh>
-<v t="000.20151008125800.4"><vh>old:有關我的作業</vh></v>
-<v t="000.20151008125800.5"><vh>new:有關我的作業</vh></v>
-</v>
-</v>
-<v t="000.20151008143108.2"><vh>Recovered Nodes</vh>
-<v t="000.20151008143108.3"><vh>Recovered node "有關我的作業" from @clean simplest.html</vh>
-<v t="000.20151008143108.4"><vh>old:有關我的作業</vh></v>
-<v t="000.20151008143108.5"><vh>new:有關我的作業</vh></v>
-</v>
-<v t="000.20151008143108.6"><vh>Recovered node "作業任務一" from @clean simplest.html</vh>
-<v t="000.20151008143108.7"><vh>old:作業任務一</vh></v>
-<v t="000.20151008143108.8"><vh>new:作業任務一</vh></v>
-</v>
-</v>
 </vnodes>
 <tnodes>
-<t tx="000.20151008125800.2"></t>
-<t tx="000.20151008125800.3">(uncached) ibm.20150918175403.7
-Diff...
-  &lt;!-- 以下為投影片 --&gt;
-  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-  &lt;section&gt;
-- &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
--     &lt;h1&gt;救救我啊我救我&lt;/h1&gt;
-- =======
-      &lt;h1&gt;計算機程式&lt;/h1&gt;
-- &gt;&gt;&gt;&gt;&gt;&gt;&gt; 6372fbd52823f952336b304822f8a5030432500b
-      &lt;p&gt;第1週教學內容&lt;/p&gt;		
-  &lt;/section&gt;
-- 	
-+ 	</t>
-<t tx="000.20151008125800.4">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-    &lt;h1&gt;計算機程式&lt;/h1&gt;
-    &lt;p&gt;第1週教學內容&lt;/p&gt;		
-&lt;/section&gt;
-	</t>
-<t tx="000.20151008125800.5">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section&gt;
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-    &lt;h1&gt;救救我啊我救我&lt;/h1&gt;
-=======
-    &lt;h1&gt;計算機程式&lt;/h1&gt;
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 6372fbd52823f952336b304822f8a5030432500b
-    &lt;p&gt;第1週教學內容&lt;/p&gt;		
-&lt;/section&gt;
-	
-</t>
-<t tx="000.20151008143108.2"></t>
-<t tx="000.20151008143108.3">(uncached) amd.20150915211351.7
-Diff...
-  &lt;!-- 以下為投影片 --&gt;
-  &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-  &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-- &lt;section id="hw-task-one" data-background="#001100"&gt;
-+ &lt;section id="hw-task-one"&gt;
-      &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
-      &lt;p&gt;四設計二甲40323150詹晟弘 104/10/01&lt;/p&gt;		
-  &lt;/section&gt;
-  &lt;section&gt;
-      &lt;section&gt;
-      &lt;h1&gt;作業Mission-1&lt;/h1&gt;
-      &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-      &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
-</t>
-<t tx="000.20151008143108.4">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
-    &lt;p&gt;四設計二甲40323150詹晟弘 104/10/01&lt;/p&gt;		
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;section&gt;
-    &lt;h1&gt;作業Mission-1&lt;/h1&gt;
-    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
-</t>
-<t tx="000.20151008143108.5">&lt;!-- 以下為投影片 --&gt;
-&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
-&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one" data-background="#001100"&gt;
-    &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
-    &lt;p&gt;四設計二甲40323150詹晟弘 104/10/01&lt;/p&gt;		
-&lt;/section&gt;
-&lt;section&gt;
-    &lt;section&gt;
-    &lt;h1&gt;作業Mission-1&lt;/h1&gt;
-    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
-</t>
-<t tx="000.20151008143108.6">(uncached) amd.20150915211351.9
-Diff...
-      &lt;/section&gt;
-      
--     &lt;section data-background="#dddddd"&gt;
--     &lt;h1 data-color="#001100"&gt;作業Mission-1&lt;/h1&gt;	
-+     &lt;section&gt; 
-+     &lt;h1&gt;**建立分支 #1**&lt;/h1&gt;
-      &lt;/section&gt;
-  &lt;/section&gt;
-  				
-</t>
-<t tx="000.20151008143108.7">    &lt;/section&gt;
-    
-    &lt;section&gt; 
-    &lt;h1&gt;**建立分支 #1**&lt;/h1&gt;
-    &lt;/section&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="000.20151008143108.8">    &lt;/section&gt;
-    
-    &lt;section data-background="#dddddd"&gt;
-    &lt;h1 data-color="#001100"&gt;作業Mission-1&lt;/h1&gt;	
-    &lt;/section&gt;
-&lt;/section&gt;
-				
-</t>
+<t tx="232.20151022142650.1">必須使用 IPython 3.2.1
+
+sudo pip3 install IPython[notebook]==3.2.1
+
+因為 IPython 4.0 已經將 IPython notebook 分出去改名為 Jupyter
+
+之後可能再測試 liquid_tags 是否能與 Jupyter 相容</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
