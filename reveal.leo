@@ -48,7 +48,7 @@
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2"><vh>html</vh>
-<v t="amd.20150913233943.3"><vh>head</vh>
+<v t="amd.20150913233943.3" a="E"><vh>head</vh>
 <v t="amd.20150913233943.4"><vh>title</vh></v>
 </v>
 <v t="amd.20150913233943.5"><vh>body</vh>
@@ -289,215 +289,853 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1"><vh>html 標註</vh>
-<v t="amd.20150915211351.4"><vh>body 標註</vh>
-<v t="amd.20150915211351.5"><vh>div class="reveal"</vh>
-<v t="amd.20150915211351.6"><vh>div class="slides"</vh>
+<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
+<v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
+<v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
+<v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>111</vh></v>
 <v t="amd.20150915211351.9"><vh>222</vh></v>
 <v t="amd.20150915211351.12"><vh>333</vh></v>
+<v t="123.20151105141257.1"><vh>123</vh></v>
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
-<v t="amd.20150915170743.2"><vh>html 標註</vh>
-<v t="amd.20150915170743.3"><vh>head</vh>
-<v t="amd.20150915170743.4"><vh>title - 標題</vh></v>
-<v t="amd.20150915170743.5"><vh>meta - 說明</vh></v>
-<v t="amd.20150915170743.6"><vh>script - css 與 pdf 列印</vh></v>
+<v t="123.20151105150052.1" a="E"><vh>@clean v31ref.html</vh>
+<v t="123.20151105150052.2" a="E"><vh>html 標註</vh>
+<v t="123.20151105150052.3"><vh>head</vh>
+<v t="123.20151105150052.4"><vh>title - 標題</vh></v>
+<v t="123.20151105150052.5"><vh>meta - 說明</vh></v>
+<v t="123.20151105150052.6"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915170743.7"><vh>body</vh>
-<v t="amd.20150915170743.8"><vh>div - reveal</vh>
-<v t="amd.20150915170743.9"><vh>div - slides</vh>
-<v t="amd.20150915170743.10"><vh>h1 - 一般單頁</vh></v>
-<v t="amd.20150915170743.11"><vh>h2</vh></v>
-<v t="amd.20150915170743.12"><vh>h2 - 垂直有下屬頁</vh>
-<v t="amd.20150915170743.13"><vh>h2</vh></v>
-<v t="amd.20150915170743.14"><vh>h2</vh></v>
-<v t="amd.20150915170743.15"><vh>h2</vh></v>
+<v t="123.20151105150052.7" a="E"><vh>body</vh>
+<v t="123.20151105150052.8" a="E"><vh>div - reveal</vh>
+<v t="123.20151105150052.9" a="E"><vh>div - slides</vh>
+<v t="123.20151105150052.10"><vh>h1 - 一般單頁</vh></v>
+<v t="123.20151105150052.11"><vh>h2</vh></v>
+<v t="123.20151105150052.12"><vh>h2 - 垂直有下屬頁</vh>
+<v t="123.20151105150052.13"><vh>h2</vh></v>
+<v t="123.20151105150052.14"><vh>h2</vh></v>
+<v t="123.20151105150052.15"><vh>h2</vh></v>
 </v>
-<v t="amd.20150915170743.16"><vh>h2</vh></v>
-<v t="amd.20150915170743.17"><vh>h2</vh></v>
-<v t="amd.20150915170743.18"><vh>h2</vh></v>
-<v t="amd.20150915170743.19"><vh>markdown 頁面</vh></v>
-<v t="amd.20150915170743.20"><vh>h2</vh>
-<v t="amd.20150915170743.21"><vh>Fragement 主頁面</vh></v>
-<v t="amd.20150915170743.22"><vh>下屬頁面</vh>
-<v t="amd.20150915170743.23"><vh>h2</vh></v>
-<v t="amd.20150915170743.24"><vh>p</vh></v>
-<v t="amd.20150915170743.25"><vh>p</vh></v>
-<v t="amd.20150915170743.26"><vh>p</vh></v>
-<v t="amd.20150915170743.27"><vh>p</vh></v>
-<v t="amd.20150915170743.28"><vh>p</vh></v>
-<v t="amd.20150915170743.29"><vh>p</vh></v>
-<v t="amd.20150915170743.30"><vh>p</vh></v>
-</v>
-</v>
-<v t="amd.20150915170743.31"><vh>h2</vh></v>
-<v t="amd.20150915170743.32"><vh>p</vh>
-<v t="amd.20150915170743.33"><vh>a</vh></v>
-<v t="amd.20150915170743.34"><vh>a</vh></v>
-<v t="amd.20150915170743.35"><vh>a</vh></v>
-<v t="amd.20150915170743.36"><vh>a</vh></v>
-<v t="amd.20150915170743.37"><vh>a</vh></v>
-<v t="amd.20150915170743.38"><vh>a</vh></v>
-</v>
-<v t="amd.20150915170743.39"><vh>h2 - 更換主題</vh></v>
-<v t="amd.20150915170743.40"><vh>p</vh>
-<v t="amd.20150915170743.41"><vh>a</vh></v>
-<v t="amd.20150915170743.42"><vh>a</vh></v>
-<v t="amd.20150915170743.43"><vh>a</vh></v>
-<v t="amd.20150915170743.44"><vh>a</vh></v>
-<v t="amd.20150915170743.45"><vh>a</vh></v>
-<v t="amd.20150915170743.46"><vh>a</vh></v>
-<v t="amd.20150915170743.47"><vh>a</vh></v>
-<v t="amd.20150915170743.48"><vh>a</vh></v>
-<v t="amd.20150915170743.49"><vh>a</vh></v>
-<v t="amd.20150915170743.50"><vh>a</vh></v>
-<v t="amd.20150915170743.51"><vh>a</vh></v>
-</v>
-<v t="amd.20150915170743.52"><vh>h2</vh></v>
-<v t="amd.20150915170743.53"><vh>p</vh>
-<v t="amd.20150915170743.54"><vh>code</vh></v>
-</v>
-<v t="amd.20150915170743.55"><vh>a</vh></v>
-<v t="amd.20150915170743.56"><vh>h2</vh></v>
-<v t="amd.20150915170743.57"><vh>pre</vh>
-<v t="amd.20150915170743.58"><vh>code</vh></v>
-</v>
-<v t="amd.20150915170743.59"><vh>h2 - 背景填圖頁面</vh></v>
-<v t="amd.20150915170743.60"><vh>pre</vh>
-<v t="amd.20150915170743.61"><vh>code</vh></v>
-</v>
-<v t="amd.20150915170743.62"><vh>div</vh>
-<v t="amd.20150915170743.63"><vh>h2</vh></v>
-<v t="amd.20150915170743.64"><vh>pre</vh>
-<v t="amd.20150915170743.65"><vh>code</vh></v>
+<v t="123.20151105150052.16"><vh>h2</vh></v>
+<v t="123.20151105150052.17"><vh>h2</vh></v>
+<v t="123.20151105150052.18"><vh>h2</vh></v>
+<v t="123.20151105150052.19"><vh>markdown 頁面</vh></v>
+<v t="123.20151105150052.20"><vh>h2</vh>
+<v t="123.20151105150052.21"><vh>Fragement 主頁面</vh></v>
+<v t="123.20151105150052.22" a="E"><vh>下屬頁面</vh>
+<v t="123.20151105150052.23"><vh>h2</vh></v>
+<v t="123.20151105150052.24"><vh>p</vh></v>
+<v t="123.20151105150052.25"><vh>p</vh></v>
+<v t="123.20151105150052.26"><vh>p</vh></v>
+<v t="123.20151105150052.27"><vh>p</vh></v>
+<v t="123.20151105150052.28"><vh>p</vh></v>
+<v t="123.20151105150052.29"><vh>p</vh></v>
+<v t="123.20151105150052.30"><vh>p</vh></v>
 </v>
 </v>
-<v t="amd.20150915170743.66"><vh>h2</vh></v>
-<v t="amd.20150915170743.67"><vh>h2</vh></v>
-<v t="amd.20150915170743.68"><vh>p</vh></v>
-<v t="amd.20150915170743.69"><vh>pre</vh>
-<v t="amd.20150915170743.70"><vh>code</vh></v>
+<v t="123.20151105150052.31"><vh>h2</vh></v>
+<v t="123.20151105150052.32"><vh>p</vh>
+<v t="123.20151105150052.33"><vh>a</vh></v>
+<v t="123.20151105150052.34"><vh>a</vh></v>
+<v t="123.20151105150052.35"><vh>a</vh></v>
+<v t="123.20151105150052.36"><vh>a</vh></v>
+<v t="123.20151105150052.37"><vh>a</vh></v>
+<v t="123.20151105150052.38"><vh>a</vh></v>
 </v>
-<v t="amd.20150915170743.71"><vh>h2 - 背景轉換</vh></v>
-<v t="amd.20150915170743.72"><vh>p</vh></v>
-<v t="amd.20150915170743.73"><vh>pre</vh>
-<v t="amd.20150915170743.74"><vh>code</vh></v>
+<v t="123.20151105150052.39"><vh>h2 - 更換主題</vh></v>
+<v t="123.20151105150052.40" a="E"><vh>p</vh>
+<v t="123.20151105150052.41"><vh>a</vh></v>
+<v t="123.20151105150052.42"><vh>a</vh></v>
+<v t="123.20151105150052.43"><vh>a</vh></v>
+<v t="123.20151105150052.44"><vh>a</vh></v>
+<v t="123.20151105150052.45"><vh>a</vh></v>
+<v t="123.20151105150052.46"><vh>a</vh></v>
+<v t="123.20151105150052.47"><vh>a</vh></v>
+<v t="123.20151105150052.48"><vh>a</vh></v>
+<v t="123.20151105150052.49"><vh>a</vh></v>
+<v t="123.20151105150052.50"><vh>a</vh></v>
+<v t="123.20151105150052.51"><vh>a</vh></v>
 </v>
-<v t="amd.20150915170743.75"><vh>h2 - 內含程式碼頁面</vh>
-<v t="amd.20150915170743.76"><vh>pre</vh>
-<v t="amd.20150915170743.77"><vh>code</vh></v>
+<v t="123.20151105150052.52"><vh>h2</vh></v>
+<v t="123.20151105150052.53"><vh>p</vh>
+<v t="123.20151105150052.54"><vh>code</vh></v>
 </v>
-<v t="amd.20150915170743.78"><vh>p</vh></v>
+<v t="123.20151105150052.55"><vh>a</vh></v>
+<v t="123.20151105150052.56"><vh>h2</vh></v>
+<v t="123.20151105150052.57"><vh>pre</vh>
+<v t="123.20151105150052.58"><vh>code</vh></v>
 </v>
-<v t="amd.20150915170743.79"><vh>h2</vh></v>
-<v t="amd.20150915170743.80"><vh>ul</vh>
-<v t="amd.20150915170743.81"><vh>li</vh></v>
-<v t="amd.20150915170743.82"><vh>li</vh></v>
-<v t="amd.20150915170743.83"><vh>li</vh></v>
-<v t="amd.20150915170743.84"><vh>li</vh></v>
+<v t="123.20151105150052.59"><vh>h2 - 背景填圖頁面</vh></v>
+<v t="123.20151105150052.60"><vh>pre</vh>
+<v t="123.20151105150052.61"><vh>code</vh></v>
 </v>
-<v t="amd.20150915170743.85"><vh>h2</vh></v>
-<v t="amd.20150915170743.86"><vh>ol</vh>
-<v t="amd.20150915170743.87"><vh>li</vh></v>
-<v t="amd.20150915170743.88"><vh>li</vh></v>
-<v t="amd.20150915170743.89"><vh>li</vh></v>
-</v>
-<v t="amd.20150915170743.90"><vh>h2 - 表格頁面</vh></v>
-<v t="amd.20150915170743.91"><vh>table</vh>
-<v t="amd.20150915170743.92"><vh>thead</vh>
-<v t="amd.20150915170743.93"><vh>tr</vh>
-<v t="amd.20150915170743.94"><vh>th</vh></v>
-<v t="amd.20150915170743.95"><vh>th</vh></v>
-<v t="amd.20150915170743.96"><vh>th</vh></v>
-</v>
-</v>
-<v t="amd.20150915170743.97"><vh>tbody</vh>
-<v t="amd.20150915170743.98"><vh>tr</vh>
-<v t="amd.20150915170743.99"><vh>td</vh></v>
-<v t="amd.20150915170743.100"><vh>td</vh></v>
-<v t="amd.20150915170743.101"><vh>td</vh></v>
-</v>
-<v t="amd.20150915170743.102"><vh>tr</vh>
-<v t="amd.20150915170743.103"><vh>td</vh></v>
-<v t="amd.20150915170743.104"><vh>td</vh></v>
-<v t="amd.20150915170743.105"><vh>td</vh></v>
-</v>
-<v t="amd.20150915170743.106"><vh>tr</vh>
-<v t="amd.20150915170743.107"><vh>td</vh></v>
-<v t="amd.20150915170743.108"><vh>td</vh></v>
-<v t="amd.20150915170743.109"><vh>td</vh></v>
+<v t="123.20151105150052.62" a="E"><vh>div</vh>
+<v t="123.20151105150052.63"><vh>h2</vh></v>
+<v t="123.20151105150052.64" a="E"><vh>pre</vh>
+<v t="123.20151105150052.65"><vh>code</vh></v>
 </v>
 </v>
+<v t="123.20151105150052.66"><vh>h2</vh></v>
+<v t="123.20151105150052.67"><vh>h2</vh></v>
+<v t="123.20151105150052.68"><vh>p</vh></v>
+<v t="123.20151105150052.69"><vh>pre</vh>
+<v t="123.20151105150052.70"><vh>code</vh></v>
 </v>
-<v t="amd.20150915170743.110"><vh>h2</vh></v>
-<v t="amd.20150915170743.111"><vh>p</vh>
-<v t="amd.20150915170743.112"><vh>q</vh></v>
+<v t="123.20151105150052.71"><vh>h2 - 背景轉換</vh></v>
+<v t="123.20151105150052.72"><vh>p</vh></v>
+<v t="123.20151105150052.73" a="E"><vh>pre</vh>
+<v t="123.20151105150052.74"><vh>code</vh></v>
 </v>
-<v t="amd.20150915170743.113"><vh>blockquote</vh></v>
-<v t="amd.20150915170743.114"><vh>h2</vh></v>
-<v t="amd.20150915170743.115"><vh>p</vh>
-<v t="amd.20150915170743.116"><vh>a</vh></v>
+<v t="123.20151105150052.75" a="E"><vh>h2 - 內含程式碼頁面</vh>
+<v t="123.20151105150052.76" a="E"><vh>pre</vh>
+<v t="123.20151105150052.77"><vh>code</vh></v>
 </v>
-<v t="amd.20150915170743.117"><vh>h2</vh></v>
-<v t="amd.20150915170743.118"><vh>p</vh>
-<v t="amd.20150915170743.119"><vh>a</vh></v>
+<v t="123.20151105150052.78"><vh>p</vh></v>
 </v>
-<v t="amd.20150915170743.120"><vh>p</vh>
-<v t="amd.20150915170743.121"><vh>em</vh></v>
+<v t="123.20151105150052.79"><vh>h2</vh></v>
+<v t="123.20151105150052.80" a="E"><vh>ul</vh>
+<v t="123.20151105150052.81"><vh>li</vh></v>
+<v t="123.20151105150052.82"><vh>li</vh></v>
+<v t="123.20151105150052.83"><vh>li</vh></v>
+<v t="123.20151105150052.84"><vh>li</vh></v>
 </v>
-<v t="amd.20150915170743.122"><vh>h2</vh></v>
-<v t="amd.20150915170743.123"><vh>p</vh>
-<v t="amd.20150915170743.124"><vh>a</vh></v>
+<v t="123.20151105150052.85"><vh>h2</vh></v>
+<v t="123.20151105150052.86"><vh>ol</vh>
+<v t="123.20151105150052.87"><vh>li</vh></v>
+<v t="123.20151105150052.88"><vh>li</vh></v>
+<v t="123.20151105150052.89"><vh>li</vh></v>
 </v>
-<v t="amd.20150915170743.125"><vh>iframe</vh></v>
-<v t="amd.20150915170743.126"><vh>h2</vh></v>
-<v t="amd.20150915170743.127"><vh>p</vh>
-<v t="amd.20150915170743.128"><vh>code</vh></v>
-<v t="amd.20150915170743.129"><vh>code</vh></v>
-</v>
-<v t="amd.20150915170743.130"><vh>h2</vh></v>
-<v t="amd.20150915170743.131"><vh>p</vh>
-<v t="amd.20150915170743.132"><vh>code</vh></v>
-</v>
-<v t="amd.20150915170743.133"><vh>pre</vh>
-<v t="amd.20150915170743.134"><vh>code</vh></v>
-</v>
-<v t="amd.20150915170743.135"><vh>h2 按下 b 或 . 可以 black 畫面</vh></v>
-<v t="amd.20150915170743.136"><vh>p</vh></v>
-<v t="amd.20150915170743.137"><vh>h2 unordered list 頁面</vh>
-<v t="amd.20150915170743.138"><vh>li</vh>
-<v t="amd.20150915170743.139"><vh>a</vh></v>
-</v>
-<v t="amd.20150915170743.140"><vh>li</vh>
-<v t="amd.20150915170743.141"><vh>a</vh></v>
-</v>
-<v t="amd.20150915170743.142"><vh>li</vh>
-<v t="amd.20150915170743.143"><vh>a</vh></v>
-</v>
-<v t="amd.20150915170743.144"><vh>li</vh>
-<v t="amd.20150915170743.145"><vh>a</vh></v>
-</v>
-<v t="amd.20150915170743.146"><vh>li</vh></v>
-</v>
-<v t="amd.20150915170743.147"><vh>結束單頁</vh></v>
+<v t="123.20151105150052.90"><vh>h2 - 表格頁面</vh></v>
+<v t="123.20151105150052.91" a="E"><vh>table</vh>
+<v t="123.20151105150052.92"><vh>thead</vh>
+<v t="123.20151105150052.93"><vh>tr</vh>
+<v t="123.20151105150052.94"><vh>th</vh></v>
+<v t="123.20151105150052.95"><vh>th</vh></v>
+<v t="123.20151105150052.96"><vh>th</vh></v>
 </v>
 </v>
-<v t="amd.20150915170743.148"><vh>script</vh></v>
-<v t="amd.20150915170743.149"><vh>script</vh></v>
-<v t="amd.20150915170743.150"><vh>script</vh></v>
+<v t="123.20151105150052.97"><vh>tbody</vh>
+<v t="123.20151105150052.98"><vh>tr</vh>
+<v t="123.20151105150052.99"><vh>td</vh></v>
+<v t="123.20151105150052.100"><vh>td</vh></v>
+<v t="123.20151105150052.101"><vh>td</vh></v>
+</v>
+<v t="123.20151105150052.102"><vh>tr</vh>
+<v t="123.20151105150052.103"><vh>td</vh></v>
+<v t="123.20151105150052.104"><vh>td</vh></v>
+<v t="123.20151105150052.105"><vh>td</vh></v>
+</v>
+<v t="123.20151105150052.106"><vh>tr</vh>
+<v t="123.20151105150052.107"><vh>td</vh></v>
+<v t="123.20151105150052.108"><vh>td</vh></v>
+<v t="123.20151105150052.109"><vh>td</vh></v>
+</v>
+</v>
+</v>
+<v t="123.20151105150052.110"><vh>h2</vh></v>
+<v t="123.20151105150052.111"><vh>p</vh>
+<v t="123.20151105150052.112"><vh>q</vh></v>
+</v>
+<v t="123.20151105150052.113"><vh>blockquote</vh></v>
+<v t="123.20151105150052.114"><vh>h2</vh></v>
+<v t="123.20151105150052.115"><vh>p</vh>
+<v t="123.20151105150052.116"><vh>a</vh></v>
+</v>
+<v t="123.20151105150052.117"><vh>h2</vh></v>
+<v t="123.20151105150052.118" a="E"><vh>p</vh>
+<v t="123.20151105150052.119"><vh>a</vh></v>
+</v>
+<v t="123.20151105150052.120"><vh>p</vh>
+<v t="123.20151105150052.121"><vh>em</vh></v>
+</v>
+<v t="123.20151105150052.122"><vh>h2</vh></v>
+<v t="123.20151105150052.123"><vh>p</vh>
+<v t="123.20151105150052.124"><vh>a</vh></v>
+</v>
+<v t="123.20151105150052.125"><vh>iframe</vh></v>
+<v t="123.20151105150052.126"><vh>h2</vh></v>
+<v t="123.20151105150052.127" a="E"><vh>p</vh>
+<v t="123.20151105150052.128"><vh>code</vh></v>
+<v t="123.20151105150052.129"><vh>code</vh></v>
+</v>
+<v t="123.20151105150052.130"><vh>h2</vh></v>
+<v t="123.20151105150052.131"><vh>p</vh>
+<v t="123.20151105150052.132"><vh>code</vh></v>
+</v>
+<v t="123.20151105150052.133"><vh>pre</vh>
+<v t="123.20151105150052.134"><vh>code</vh></v>
+</v>
+<v t="123.20151105150052.135"><vh>h2 按下 b 或 . 可以 black 畫面</vh></v>
+<v t="123.20151105150052.136"><vh>p</vh></v>
+<v t="123.20151105150052.137" a="E"><vh>h2 unordered list 頁面</vh>
+<v t="123.20151105150052.138"><vh>li</vh>
+<v t="123.20151105150052.139"><vh>a</vh></v>
+</v>
+<v t="123.20151105150052.140"><vh>li</vh>
+<v t="123.20151105150052.141"><vh>a</vh></v>
+</v>
+<v t="123.20151105150052.142"><vh>li</vh>
+<v t="123.20151105150052.143"><vh>a</vh></v>
+</v>
+<v t="123.20151105150052.144"><vh>li</vh>
+<v t="123.20151105150052.145"><vh>a</vh></v>
+</v>
+<v t="123.20151105150052.146"><vh>li</vh></v>
+</v>
+<v t="123.20151105150052.147"><vh>結束單頁</vh></v>
+</v>
+</v>
+<v t="123.20151105150052.148"><vh>script</vh></v>
+<v t="123.20151105150052.149"><vh>script</vh></v>
+<v t="123.20151105150052.150"><vh>script</vh></v>
 </v>
 </v>
 </v>
 </vnodes>
 <tnodes>
+<t tx="123.20151105141257.1">&lt;section&gt;
+&lt;iframe src="https://player.vimeo.com/video/144714197" width="1000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/section&gt;</t>
+<t tx="123.20151105150052.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="123.20151105150052.10">&lt;section&gt;
+        &lt;h1&gt;Reveal.js 使用說明&lt;/h1&gt;
+    &lt;h3&gt;The HTML Presentation Framework 框架&lt;/h3&gt;
+    &lt;p&gt;
+    &lt;small&gt;
+    Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; / 
+    &lt;a href="http://twitter.com/hakimel"&gt;@hakimel&lt;/a&gt;
+    &lt;/small&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+	</t>
+<t tx="123.20151105150052.100">&lt;td&gt;$1&lt;/td&gt;
+								</t>
+<t tx="123.20151105150052.101">&lt;td&gt;7&lt;/td&gt;
+							</t>
+<t tx="123.20151105150052.102">&lt;tr&gt;
+@others
+&lt;/tr&gt;
+							</t>
+<t tx="123.20151105150052.103">
+&lt;td&gt;Lemonade&lt;/td&gt;
+</t>
+<t tx="123.20151105150052.104">&lt;td&gt;$2&lt;/td&gt;
+								</t>
+<t tx="123.20151105150052.105">&lt;td&gt;18&lt;/td&gt;
+							</t>
+<t tx="123.20151105150052.106">&lt;tr&gt;
+@others
+&lt;/tr&gt;
+						</t>
+<t tx="123.20151105150052.107">
+&lt;td&gt;Bread&lt;/td&gt;
+</t>
+<t tx="123.20151105150052.108">&lt;td&gt;$3&lt;/td&gt;
+								</t>
+<t tx="123.20151105150052.109">&lt;td&gt;2&lt;/td&gt;
+							</t>
+<t tx="123.20151105150052.11">&lt;section&gt;
+    &lt;h2&gt;Hello There&lt;/h2&gt;
+    &lt;p&gt;
+reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
+    &lt;/p&gt;
+&lt;/section&gt;
+					</t>
+<t tx="123.20151105150052.110">&lt;section&gt;
+&lt;h2&gt;Clever Quotes&lt;/h2&gt;
+					</t>
+<t tx="123.20151105150052.111">&lt;p&gt;
+@others
+&lt;/p&gt;
+					</t>
+<t tx="123.20151105150052.112">
+These guys come in two forms, inline: &lt;q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
+&amp;ldquo;The nice thing about standards is that there are so many to choose from&amp;rdquo;&lt;/q&gt; and block:
+</t>
+<t tx="123.20151105150052.113">&lt;blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
+						&amp;ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
+						reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&amp;rdquo;
+&lt;/blockquote&gt;
+&lt;/section&gt;
+					</t>
+<t tx="123.20151105150052.114">&lt;section&gt;
+&lt;h2&gt;Intergalactic Interconnections&lt;/h2&gt;
+					</t>
+<t tx="123.20151105150052.115">&lt;p&gt;
+@others
+&lt;/p&gt;
+&lt;/section&gt;
+
+				
+					</t>
+<t tx="123.20151105150052.116">
+You can link between slides internally,
+&lt;a href="#/2/3"&gt;like this&lt;/a&gt;.
+</t>
+<t tx="123.20151105150052.117">&lt;section&gt;
+&lt;h2&gt;Speaker View&lt;/h2&gt;
+					</t>
+<t tx="123.20151105150052.118">&lt;p&gt;
+@others
+&lt;/p&gt;
+					</t>
+<t tx="123.20151105150052.119">There's a &lt;a href="https://github.com/hakimel/reveal.js#speaker-notes"&gt;speaker view&lt;/a&gt;. It includes a timer, preview of the upcoming slide as well as your speaker notes.</t>
+<t tx="123.20151105150052.12">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						</t>
+<t tx="123.20151105150052.120">&lt;p&gt;
+@others
+&lt;/p&gt;
+    &lt;aside class="notes"&gt;
+    Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
+    &lt;/aside&gt;
+&lt;/section&gt;
+					</t>
+<t tx="123.20151105150052.121">Press the &lt;em&gt;S&lt;/em&gt; key to try it out.</t>
+<t tx="123.20151105150052.122">&lt;section&gt;
+&lt;h2&gt;Export to PDF&lt;/h2&gt;
+					</t>
+<t tx="123.20151105150052.123">&lt;p&gt;
+@others
+&lt;/p&gt;
+					</t>
+<t tx="123.20151105150052.124">Presentations can be &lt;a href="https://github.com/hakimel/reveal.js#pdf-export"&gt;exported to PDF&lt;/a&gt;, here's an example:</t>
+<t tx="123.20151105150052.125">&lt;iframe src="//www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
+&lt;/section&gt;
+					</t>
+<t tx="123.20151105150052.126">&lt;section&gt;
+&lt;h2&gt;Global State&lt;/h2&gt;
+					</t>
+<t tx="123.20151105150052.127">&lt;p&gt;
+@others
+&lt;/p&gt;
+&lt;/section&gt;
+					</t>
+<t tx="123.20151105150052.128">Set &lt;code&gt;data-state="something"&lt;/code&gt; on a slide and </t>
+<t tx="123.20151105150052.129">&lt;code&gt;"something"&lt;/code&gt;
+will be added as a class to the document element when the slide is open. This lets you
+apply broader style changes, like switching the page background.
+					</t>
+<t tx="123.20151105150052.13">&lt;section&gt;
+    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
+    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
+    &lt;p&gt;
+    Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.
+    &lt;/p&gt;
+    &lt;br&gt;
+    &lt;a href="#" class="navigate-down"&gt;
+    &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
+    &lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="123.20151105150052.130">&lt;section data-state="customevent"&gt;
+&lt;h2&gt;State Events&lt;/h2&gt;
+					</t>
+<t tx="123.20151105150052.131">&lt;p&gt;
+@others
+&lt;/p&gt;
+					</t>
+<t tx="123.20151105150052.132">
+Additionally custom events can be triggered on a per slide basis by binding to the &lt;code&gt;data-state&lt;/code&gt; name.
+</t>
+<t tx="123.20151105150052.133">&lt;pre&gt;
+@others
+&lt;/pre&gt;
+&lt;/section&gt;
+
+
+					</t>
+<t tx="123.20151105150052.134">&lt;code class="javascript" data-trim contenteditable style="font-size: 18px;"&gt;
+Reveal.addEventListener( 'customevent', function() {
+	console.log( '"customevent" has fired' );
+} );
+					&lt;/code&gt;</t>
+<t tx="123.20151105150052.135">&lt;section&gt;
+&lt;h2&gt;Take a Moment&lt;/h2&gt;
+					</t>
+<t tx="123.20151105150052.136">&lt;p&gt;
+Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
+&lt;/p&gt;
+&lt;/section&gt;
+
+				
+					</t>
+<t tx="123.20151105150052.137">&lt;section&gt;
+&lt;h2&gt;Much more&lt;/h2&gt;
+    &lt;ul&gt;
+    @others
+    &lt;/ul&gt;
+&lt;/section&gt;
+					</t>
+<t tx="123.20151105150052.138">&lt;li&gt;
+@others
+&lt;/li&gt;
+						</t>
+<t tx="123.20151105150052.139">&lt;a href="https://github.com/hakimel/reveal.js#auto-sliding"&gt;Auto-progression&lt;/a&gt;</t>
+<t tx="123.20151105150052.14">&lt;section&gt;
+    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
+    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+&lt;/section&gt;
+						</t>
+<t tx="123.20151105150052.140">&lt;li&gt;
+@others
+&lt;/li&gt;
+						</t>
+<t tx="123.20151105150052.141">&lt;a href="https://github.com/hakimel/reveal.js#parallax-background"&gt;Parallax backgrounds&lt;/a&gt;</t>
+<t tx="123.20151105150052.142">&lt;li&gt;
+@others
+&lt;/li&gt;
+					</t>
+<t tx="123.20151105150052.143">&lt;a href="https://github.com/hakimel/reveal.js#keyboard-bindings"&gt;Custom keyboard bindings&lt;/a&gt;</t>
+<t tx="123.20151105150052.144">&lt;li&gt;
+@others
+&lt;/li&gt;
+						</t>
+<t tx="123.20151105150052.145">&lt;a href="https://github.com/hakimel/reveal.js#api"&gt;Extensive JavaScript API&lt;/a&gt;</t>
+<t tx="123.20151105150052.146">&lt;li&gt;Right-to-left support&lt;/li&gt;
+</t>
+<t tx="123.20151105150052.147">&lt;section style="text-align: left;"&gt;
+&lt;h1&gt;THE END&lt;/h1&gt;
+&lt;section&gt;
+					</t>
+<t tx="123.20151105150052.148">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+		</t>
+<t tx="123.20151105150052.149">&lt;script src="js/reveal.js"&gt;&lt;/script&gt;
+
+		</t>
+<t tx="123.20151105150052.15">&lt;section&gt;
+    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
+    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
+    &lt;br&gt;
+    &lt;a href="#/2"&gt;
+    &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);"&gt;
+    &lt;/a&gt;
+&lt;/section&gt;
+						</t>
+<t tx="123.20151105150052.150">&lt;script&gt;
+
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+		&lt;/script&gt;
+
+	</t>
+<t tx="123.20151105150052.16">&lt;section&gt;
+    &lt;h2&gt;Slides&lt;/h2&gt;
+    &lt;p&gt;
+    Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="http://slides.com" target="_blank"&gt;http://slides.com&lt;/a&gt;.
+    &lt;/p&gt;
+&lt;/section&gt;
+					</t>
+<t tx="123.20151105150052.17">&lt;section&gt;
+    &lt;h2&gt;Point of View&lt;/h2&gt;
+    &lt;p&gt;
+    Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
+    &lt;/p&gt;
+    &lt;p&gt;
+    Hold down alt and click on any element to zoom in on it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Alt + click anywhere to zoom back out.
+    &lt;/p&gt;
+&lt;/section&gt;
+					</t>
+<t tx="123.20151105150052.18">&lt;section&gt;
+    &lt;h2&gt;Touch Optimized&lt;/h2&gt;
+    &lt;p&gt;
+    Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
+    &lt;/p&gt;
+&lt;/section&gt;
+					</t>
+<t tx="123.20151105150052.19">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+        ## Markdown support
+        
+        Write content using inline or external Markdown.
+        Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
+        
+            ```
+            &lt;section data-markdown&gt;
+              ## Markdown support
+            
+              Write content using inline or external Markdown.
+              Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
+            &lt;/section&gt;
+            ```
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						</t>
+<t tx="123.20151105150052.2">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+@others
+&lt;/html&gt;</t>
+<t tx="123.20151105150052.20">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+						</t>
+<t tx="123.20151105150052.21">&lt;section id="fragments"&gt;
+&lt;h2&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Hit the next arrow...&lt;/p&gt;
+&lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
+&lt;p&gt;
+    &lt;span class="fragment"&gt;... a&lt;/span&gt; 
+    &lt;span class="fragment"&gt;fragmented&lt;/span&gt;
+    &lt;span class="fragment"&gt;slide.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;aside class="notes"&gt;
+This slide has fragments which are also stepped through in the notes window.
+&lt;/aside&gt;
+&lt;/section&gt;</t>
+<t tx="123.20151105150052.22">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+						</t>
+<t tx="123.20151105150052.23">&lt;h2&gt;Fragment Styles&lt;/h2&gt;</t>
+<t tx="123.20151105150052.24">&lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
+						</t>
+<t tx="123.20151105150052.25">&lt;p class="fragment grow"&gt;grow&lt;/p&gt;
+						</t>
+<t tx="123.20151105150052.26">&lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
+						</t>
+<t tx="123.20151105150052.27">&lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
+						</t>
+<t tx="123.20151105150052.28">&lt;p class="fragment current-visible"&gt;current-visible&lt;/p&gt;
+						</t>
+<t tx="123.20151105150052.29">&lt;p class="fragment highlight-red"&gt;highlight-red&lt;/p&gt;
+						</t>
+<t tx="123.20151105150052.3">&lt;head&gt;
+@others
+&lt;/head&gt;
+
+</t>
+<t tx="123.20151105150052.30">&lt;p class="fragment highlight-blue"&gt;highlight-blue&lt;/p&gt;
+
+
+				
+					</t>
+<t tx="123.20151105150052.31">&lt;section id="transitions"&gt;
+&lt;h2&gt;Transition Styles&lt;/h2&gt;
+					</t>
+<t tx="123.20151105150052.32">&lt;p&gt;
+@others
+&lt;/p&gt;
+				&lt;/section&gt;
+
+
+					</t>
+<t tx="123.20151105150052.33">
+You can select from different transitions, like: &lt;br&gt;
+&lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
+</t>
+<t tx="123.20151105150052.34">&lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
+						</t>
+<t tx="123.20151105150052.35">&lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
+						</t>
+<t tx="123.20151105150052.36">&lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
+						</t>
+<t tx="123.20151105150052.37">&lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
+						</t>
+<t tx="123.20151105150052.38">&lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
+					</t>
+<t tx="123.20151105150052.39">&lt;section id="themes"&gt;
+&lt;h2&gt;Themes&lt;/h2&gt;
+					</t>
+<t tx="123.20151105150052.4">&lt;meta charset="utf-8"&gt;
+
+&lt;title&gt;reveal.js - The HTML Presentation Framework&lt;/title&gt;
+
+</t>
+<t tx="123.20151105150052.40">&lt;p&gt;
+@others
+&lt;/p&gt;
+				&lt;/section&gt;
+
+				&lt;section&gt;
+					&lt;section data-background="#dddddd"&gt;
+						</t>
+<t tx="123.20151105150052.41">
+reveal.js comes with a few themes built in: &lt;br&gt;
+&lt;!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. --&gt;
+&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;"&gt;Black (default)&lt;/a&gt; -
+</t>
+<t tx="123.20151105150052.42">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;"&gt;White&lt;/a&gt; -
+						</t>
+<t tx="123.20151105150052.43">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;"&gt;League&lt;/a&gt; -
+						</t>
+<t tx="123.20151105150052.44">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;"&gt;Sky&lt;/a&gt; -
+						</t>
+<t tx="123.20151105150052.45">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;"&gt;Beige&lt;/a&gt; -
+						</t>
+<t tx="123.20151105150052.46">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;"&gt;Simple&lt;/a&gt; </t>
+<t tx="123.20151105150052.47">&lt;br&gt;
+						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;"&gt;Serif&lt;/a&gt; -
+						</t>
+<t tx="123.20151105150052.48">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/blood.css'); return false;"&gt;Blood&lt;/a&gt; -
+						</t>
+<t tx="123.20151105150052.49">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;"&gt;Night&lt;/a&gt; -
+						</t>
+<t tx="123.20151105150052.5">&lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
+&lt;meta name="author" content="Hakim El Hattab"&gt;
+&lt;meta name="apple-mobile-web-app-capable" content="yes" /&gt;
+&lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" /&gt;
+		</t>
+<t tx="123.20151105150052.50">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;"&gt;Moon&lt;/a&gt; -
+						</t>
+<t tx="123.20151105150052.51">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;"&gt;Solarized&lt;/a&gt;
+					</t>
+<t tx="123.20151105150052.52">&lt;h2&gt;Slide Backgrounds&lt;/h2&gt;
+						</t>
+<t tx="123.20151105150052.53">&lt;p&gt;
+@others
+&lt;/p&gt;
+						</t>
+<t tx="123.20151105150052.54">
+Set &lt;code&gt;data-background="#dddddd"&lt;/code&gt; on a slide to change the background color. All CSS color formats are supported.
+</t>
+<t tx="123.20151105150052.55">&lt;a href="#" class="navigate-down"&gt;
+							&lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
+						&lt;/a&gt;
+					&lt;/section&gt;
+					&lt;section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png"&gt;
+						</t>
+<t tx="123.20151105150052.56">&lt;h2&gt;Image Backgrounds&lt;/h2&gt;
+						</t>
+<t tx="123.20151105150052.57">&lt;pre&gt;
+@others
+&lt;/pre&gt;
+&lt;/section&gt;
+						</t>
+<t tx="123.20151105150052.58">&lt;code&gt;&amp;lt;section data-background="image.png"&amp;gt;&lt;/code&gt;</t>
+<t tx="123.20151105150052.59">&lt;section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px"&gt;
+&lt;h2&gt;Tiled Backgrounds&lt;/h2&gt;
+						</t>
+<t tx="123.20151105150052.6">&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui"&gt;
+
+    &lt;link rel="stylesheet" href="css/reveal.css"&gt;
+    &lt;link rel="stylesheet" href="css/theme/black.css" id="theme"&gt;
+
+    &lt;!-- Code syntax highlighting --&gt;
+    &lt;link rel="stylesheet" href="lib/css/zenburn.css"&gt;
+
+    &lt;!-- Printing and PDF exports --&gt;
+    &lt;script&gt;
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    &lt;/script&gt;
+
+    &lt;!--[if lt IE 9]&gt;
+    &lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+    &lt;![endif]--&gt;
+	</t>
+<t tx="123.20151105150052.60">&lt;pre&gt;
+@others
+&lt;/pre&gt;
+&lt;/section&gt;
+&lt;section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm" data-background-color="#000000"&gt;
+						</t>
+<t tx="123.20151105150052.61">&lt;code style="word-wrap: break-word;"&gt;&amp;lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&amp;gt;
+&lt;/code&gt;</t>
+<t tx="123.20151105150052.62">&lt;div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;"&gt;
+@others
+&lt;/div&gt;
+&lt;/section&gt;
+
+						</t>
+<t tx="123.20151105150052.63">&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
+&lt;h2&gt;Video Backgrounds&lt;/h2&gt;
+</t>
+<t tx="123.20151105150052.64">&lt;pre&gt;
+@others
+&lt;/pre&gt;
+						</t>
+<t tx="123.20151105150052.65">&lt;code style="word-wrap: break-word;"&gt;&amp;lt;section data-background-video="video.mp4,video.webm"&amp;gt;&lt;/code&gt;</t>
+<t tx="123.20151105150052.66">&lt;h2&gt;... and GIFs!&lt;/h2&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+					</t>
+<t tx="123.20151105150052.67">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
+&lt;h2&gt;Background Transitions&lt;/h2&gt;
+					</t>
+<t tx="123.20151105150052.68">&lt;p&gt;
+						Different background transitions are available via the backgroundTransition option. This one's called "zoom".
+					&lt;/p&gt;
+					</t>
+<t tx="123.20151105150052.69">&lt;pre&gt;
+@others
+&lt;/pre&gt;
+				&lt;/section&gt;
+
+				&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
+					</t>
+<t tx="123.20151105150052.7">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="123.20151105150052.70">&lt;code&gt;Reveal.configure({ backgroundTransition: 'zoom' })&lt;/code&gt;</t>
+<t tx="123.20151105150052.71">&lt;h2&gt;Background Transitions&lt;/h2&gt;
+					</t>
+<t tx="123.20151105150052.72">&lt;p&gt;
+You can override background transitions per-slide.
+&lt;/p&gt;
+					</t>
+<t tx="123.20151105150052.73">&lt;pre&gt;
+@others
+&lt;/pre&gt;
+&lt;/section&gt;
+
+
+					</t>
+<t tx="123.20151105150052.74">&lt;code style="word-wrap: break-word;"&gt;&amp;lt;section data-background-transition="zoom"&amp;gt;&lt;/code&gt;</t>
+<t tx="123.20151105150052.75">&lt;section&gt;
+    &lt;h2&gt;Pretty Code&lt;/h2&gt;
+    @others
+&lt;/section&gt;
+					</t>
+<t tx="123.20151105150052.76">&lt;pre&gt;
+    &lt;code data-trim contenteditable&gt;
+    @others
+    &lt;/code&gt;
+&lt;/pre&gt;
+					</t>
+<t tx="123.20151105150052.77">function linkify( selector ) {
+  if( supports3DTransforms ) {
+
+    var nodes = document.querySelectorAll( selector );
+
+    for( var i = 0, len = nodes.length; i &amp;lt; len; i++ ) {
+      var node = nodes[i];
+
+      if( !node.className ) {
+        node.className += ' roll';
+      }
+    }
+  }
+}
+</t>
+<t tx="123.20151105150052.78">&lt;p&gt;
+Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft/highlight/en/description/"&gt;highlight.js&lt;/a&gt;.
+&lt;/p&gt;
+
+
+
+					</t>
+<t tx="123.20151105150052.79">&lt;section&gt;
+&lt;h2&gt;Marvelous List&lt;/h2&gt;
+					</t>
+<t tx="123.20151105150052.8">&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="123.20151105150052.80">&lt;ul&gt;
+@others
+&lt;/ul&gt;
+&lt;/section&gt;
+					</t>
+<t tx="123.20151105150052.81">
+&lt;li&gt;No order here&lt;/li&gt;
+</t>
+<t tx="123.20151105150052.82">&lt;li&gt;Or here&lt;/li&gt;
+						</t>
+<t tx="123.20151105150052.83">&lt;li&gt;Or here&lt;/li&gt;
+						</t>
+<t tx="123.20151105150052.84">&lt;li&gt;Or here&lt;/li&gt;
+					</t>
+<t tx="123.20151105150052.85">&lt;section&gt;
+&lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
+					</t>
+<t tx="123.20151105150052.86">&lt;ol&gt;
+@others
+&lt;/ol&gt;
+&lt;/section&gt;
+
+					</t>
+<t tx="123.20151105150052.87">
+&lt;li&gt;One is smaller than...&lt;/li&gt;
+</t>
+<t tx="123.20151105150052.88">&lt;li&gt;Two is smaller than...&lt;/li&gt;
+						</t>
+<t tx="123.20151105150052.89">&lt;li&gt;Three!&lt;/li&gt;
+					</t>
+<t tx="123.20151105150052.9">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+
+</t>
+<t tx="123.20151105150052.90">&lt;section&gt;
+&lt;h2&gt;Tabular Tables&lt;/h2&gt;
+					</t>
+<t tx="123.20151105150052.91">&lt;table&gt;
+@others
+&lt;/table&gt;
+&lt;/section&gt;
+
+
+					</t>
+<t tx="123.20151105150052.92">&lt;thead&gt;
+@others
+&lt;/thead&gt;
+</t>
+<t tx="123.20151105150052.93">
+&lt;tr&gt;
+@others
+&lt;/tr&gt;
+</t>
+<t tx="123.20151105150052.94">
+&lt;th&gt;Item&lt;/th&gt;
+</t>
+<t tx="123.20151105150052.95">&lt;th&gt;Value&lt;/th&gt;
+								</t>
+<t tx="123.20151105150052.96">&lt;th&gt;Quantity&lt;/th&gt;
+							</t>
+<t tx="123.20151105150052.97">&lt;tbody&gt;
+@others
+&lt;/tbody&gt;
+					</t>
+<t tx="123.20151105150052.98">
+&lt;tr&gt;
+@others
+&lt;/tr&gt;
+</t>
+<t tx="123.20151105150052.99">
+&lt;td&gt;Apples&lt;/td&gt;
+</t>
 <t tx="232.20151022142650.1">必須使用 IPython 3.2.1
 
 sudo pip3 install IPython[notebook]==3.2.1
@@ -1300,640 +1938,6 @@ This slide has fragments which are also stepped through in the notes window.
 &lt;/aside&gt;
 &lt;/section&gt;</t>
 <t tx="amd.20150915161424.1">&lt;h2&gt;Fragment Styles&lt;/h2&gt;</t>
-<t tx="amd.20150915170743.1">@language xml
-@tabwidth -4
-@others
-
-</t>
-<t tx="amd.20150915170743.10">&lt;section&gt;
-        &lt;h1&gt;Reveal.js 使用說明&lt;/h1&gt;
-    &lt;h3&gt;The HTML Presentation Framework 框架&lt;/h3&gt;
-    &lt;p&gt;
-    &lt;small&gt;
-    Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; / 
-    &lt;a href="http://twitter.com/hakimel"&gt;@hakimel&lt;/a&gt;
-    &lt;/small&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
-	</t>
-<t tx="amd.20150915170743.100">&lt;td&gt;$1&lt;/td&gt;
-								</t>
-<t tx="amd.20150915170743.101">&lt;td&gt;7&lt;/td&gt;
-							</t>
-<t tx="amd.20150915170743.102">&lt;tr&gt;
-@others
-&lt;/tr&gt;
-							</t>
-<t tx="amd.20150915170743.103">
-&lt;td&gt;Lemonade&lt;/td&gt;
-</t>
-<t tx="amd.20150915170743.104">&lt;td&gt;$2&lt;/td&gt;
-								</t>
-<t tx="amd.20150915170743.105">&lt;td&gt;18&lt;/td&gt;
-							</t>
-<t tx="amd.20150915170743.106">&lt;tr&gt;
-@others
-&lt;/tr&gt;
-						</t>
-<t tx="amd.20150915170743.107">
-&lt;td&gt;Bread&lt;/td&gt;
-</t>
-<t tx="amd.20150915170743.108">&lt;td&gt;$3&lt;/td&gt;
-								</t>
-<t tx="amd.20150915170743.109">&lt;td&gt;2&lt;/td&gt;
-							</t>
-<t tx="amd.20150915170743.11">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.110">&lt;section&gt;
-&lt;h2&gt;Clever Quotes&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915170743.111">&lt;p&gt;
-@others
-&lt;/p&gt;
-					</t>
-<t tx="amd.20150915170743.112">
-These guys come in two forms, inline: &lt;q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
-&amp;ldquo;The nice thing about standards is that there are so many to choose from&amp;rdquo;&lt;/q&gt; and block:
-</t>
-<t tx="amd.20150915170743.113">&lt;blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
-						&amp;ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
-						reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&amp;rdquo;
-&lt;/blockquote&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.114">&lt;section&gt;
-&lt;h2&gt;Intergalactic Interconnections&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915170743.115">&lt;p&gt;
-@others
-&lt;/p&gt;
-&lt;/section&gt;
-
-				
-					</t>
-<t tx="amd.20150915170743.116">
-You can link between slides internally,
-&lt;a href="#/2/3"&gt;like this&lt;/a&gt;.
-</t>
-<t tx="amd.20150915170743.117">&lt;section&gt;
-&lt;h2&gt;Speaker View&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915170743.118">&lt;p&gt;
-@others
-&lt;/p&gt;
-					</t>
-<t tx="amd.20150915170743.119">There's a &lt;a href="https://github.com/hakimel/reveal.js#speaker-notes"&gt;speaker view&lt;/a&gt;. It includes a timer, preview of the upcoming slide as well as your speaker notes.</t>
-<t tx="amd.20150915170743.12">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-						</t>
-<t tx="amd.20150915170743.120">&lt;p&gt;
-@others
-&lt;/p&gt;
-    &lt;aside class="notes"&gt;
-    Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-    &lt;/aside&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.121">Press the &lt;em&gt;S&lt;/em&gt; key to try it out.</t>
-<t tx="amd.20150915170743.122">&lt;section&gt;
-&lt;h2&gt;Export to PDF&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915170743.123">&lt;p&gt;
-@others
-&lt;/p&gt;
-					</t>
-<t tx="amd.20150915170743.124">Presentations can be &lt;a href="https://github.com/hakimel/reveal.js#pdf-export"&gt;exported to PDF&lt;/a&gt;, here's an example:</t>
-<t tx="amd.20150915170743.125">&lt;iframe src="//www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.126">&lt;section&gt;
-&lt;h2&gt;Global State&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915170743.127">&lt;p&gt;
-@others
-&lt;/p&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.128">Set &lt;code&gt;data-state="something"&lt;/code&gt; on a slide and </t>
-<t tx="amd.20150915170743.129">&lt;code&gt;"something"&lt;/code&gt;
-will be added as a class to the document element when the slide is open. This lets you
-apply broader style changes, like switching the page background.
-					</t>
-<t tx="amd.20150915170743.13">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;
-    Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.
-    &lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-    &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
-<t tx="amd.20150915170743.130">&lt;section data-state="customevent"&gt;
-&lt;h2&gt;State Events&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915170743.131">&lt;p&gt;
-@others
-&lt;/p&gt;
-					</t>
-<t tx="amd.20150915170743.132">
-Additionally custom events can be triggered on a per slide basis by binding to the &lt;code&gt;data-state&lt;/code&gt; name.
-</t>
-<t tx="amd.20150915170743.133">&lt;pre&gt;
-@others
-&lt;/pre&gt;
-&lt;/section&gt;
-
-
-					</t>
-<t tx="amd.20150915170743.134">&lt;code class="javascript" data-trim contenteditable style="font-size: 18px;"&gt;
-Reveal.addEventListener( 'customevent', function() {
-	console.log( '"customevent" has fired' );
-} );
-					&lt;/code&gt;</t>
-<t tx="amd.20150915170743.135">&lt;section&gt;
-&lt;h2&gt;Take a Moment&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915170743.136">&lt;p&gt;
-Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
-&lt;/p&gt;
-&lt;/section&gt;
-
-				
-					</t>
-<t tx="amd.20150915170743.137">&lt;section&gt;
-&lt;h2&gt;Much more&lt;/h2&gt;
-    &lt;ul&gt;
-    @others
-    &lt;/ul&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.138">&lt;li&gt;
-@others
-&lt;/li&gt;
-						</t>
-<t tx="amd.20150915170743.139">&lt;a href="https://github.com/hakimel/reveal.js#auto-sliding"&gt;Auto-progression&lt;/a&gt;</t>
-<t tx="amd.20150915170743.14">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-						</t>
-<t tx="amd.20150915170743.140">&lt;li&gt;
-@others
-&lt;/li&gt;
-						</t>
-<t tx="amd.20150915170743.141">&lt;a href="https://github.com/hakimel/reveal.js#parallax-background"&gt;Parallax backgrounds&lt;/a&gt;</t>
-<t tx="amd.20150915170743.142">&lt;li&gt;
-@others
-&lt;/li&gt;
-					</t>
-<t tx="amd.20150915170743.143">&lt;a href="https://github.com/hakimel/reveal.js#keyboard-bindings"&gt;Custom keyboard bindings&lt;/a&gt;</t>
-<t tx="amd.20150915170743.144">&lt;li&gt;
-@others
-&lt;/li&gt;
-						</t>
-<t tx="amd.20150915170743.145">&lt;a href="https://github.com/hakimel/reveal.js#api"&gt;Extensive JavaScript API&lt;/a&gt;</t>
-<t tx="amd.20150915170743.146">&lt;li&gt;Right-to-left support&lt;/li&gt;
-</t>
-<t tx="amd.20150915170743.147">&lt;section style="text-align: left;"&gt;
-&lt;h1&gt;THE END&lt;/h1&gt;
-&lt;section&gt;
-					</t>
-<t tx="amd.20150915170743.148">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
-		</t>
-<t tx="amd.20150915170743.149">&lt;script src="js/reveal.js"&gt;&lt;/script&gt;
-
-		</t>
-<t tx="amd.20150915170743.15">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-    &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-						</t>
-<t tx="amd.20150915170743.150">&lt;script&gt;
-
-			// Full list of configuration options available at:
-			// https://github.com/hakimel/reveal.js#configuration
-			Reveal.initialize({
-				controls: true,
-				progress: true,
-				history: true,
-				center: true,
-
-				transition: 'slide', // none/fade/slide/convex/concave/zoom
-
-				// Optional reveal.js plugins
-				dependencies: [
-					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
-					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
-					{ src: 'plugin/zoom-js/zoom.js', async: true },
-					{ src: 'plugin/notes/notes.js', async: true }
-				]
-			});
-
-		&lt;/script&gt;
-
-	</t>
-<t tx="amd.20150915170743.16">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-    Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="http://slides.com" target="_blank"&gt;http://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.17">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-    Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-    Hold down alt and click on any element to zoom in on it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Alt + click anywhere to zoom back out.
-    &lt;/p&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.18">&lt;section&gt;
-    &lt;h2&gt;Touch Optimized&lt;/h2&gt;
-    &lt;p&gt;
-    Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-    &lt;/p&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.19">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-        ## Markdown support
-        
-        Write content using inline or external Markdown.
-        Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
-        
-            ```
-            &lt;section data-markdown&gt;
-              ## Markdown support
-            
-              Write content using inline or external Markdown.
-              Instructions and more info available in the [readme](https://github.com/hakimel/reveal.js#markdown).
-            &lt;/section&gt;
-            ```
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						</t>
-<t tx="amd.20150915170743.2">&lt;!doctype html&gt;
-&lt;html lang="en"&gt;
-@others
-&lt;/html&gt;</t>
-<t tx="amd.20150915170743.20">&lt;section&gt;
-    @others
-&lt;/section&gt;
-
-						</t>
-<t tx="amd.20150915170743.21">&lt;section id="fragments"&gt;
-&lt;h2&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Hit the next arrow...&lt;/p&gt;
-&lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
-&lt;p&gt;
-    &lt;span class="fragment"&gt;... a&lt;/span&gt; 
-    &lt;span class="fragment"&gt;fragmented&lt;/span&gt;
-    &lt;span class="fragment"&gt;slide.&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;aside class="notes"&gt;
-This slide has fragments which are also stepped through in the notes window.
-&lt;/aside&gt;
-&lt;/section&gt;</t>
-<t tx="amd.20150915170743.22">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-
-						</t>
-<t tx="amd.20150915170743.23">&lt;h2&gt;Fragment Styles&lt;/h2&gt;</t>
-<t tx="amd.20150915170743.24">&lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-						</t>
-<t tx="amd.20150915170743.25">&lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-						</t>
-<t tx="amd.20150915170743.26">&lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-						</t>
-<t tx="amd.20150915170743.27">&lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
-						</t>
-<t tx="amd.20150915170743.28">&lt;p class="fragment current-visible"&gt;current-visible&lt;/p&gt;
-						</t>
-<t tx="amd.20150915170743.29">&lt;p class="fragment highlight-red"&gt;highlight-red&lt;/p&gt;
-						</t>
-<t tx="amd.20150915170743.3">&lt;head&gt;
-@others
-&lt;/head&gt;
-
-</t>
-<t tx="amd.20150915170743.30">&lt;p class="fragment highlight-blue"&gt;highlight-blue&lt;/p&gt;
-
-
-				
-					</t>
-<t tx="amd.20150915170743.31">&lt;section id="transitions"&gt;
-&lt;h2&gt;Transition Styles&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915170743.32">&lt;p&gt;
-@others
-&lt;/p&gt;
-				&lt;/section&gt;
-
-
-					</t>
-<t tx="amd.20150915170743.33">
-You can select from different transitions, like: &lt;br&gt;
-&lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
-</t>
-<t tx="amd.20150915170743.34">&lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915170743.35">&lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915170743.36">&lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915170743.37">&lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915170743.38">&lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
-					</t>
-<t tx="amd.20150915170743.39">&lt;section id="themes"&gt;
-&lt;h2&gt;Themes&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915170743.4">&lt;meta charset="utf-8"&gt;
-
-&lt;title&gt;reveal.js - The HTML Presentation Framework&lt;/title&gt;
-
-</t>
-<t tx="amd.20150915170743.40">&lt;p&gt;
-@others
-&lt;/p&gt;
-				&lt;/section&gt;
-
-				&lt;section&gt;
-					&lt;section data-background="#dddddd"&gt;
-						</t>
-<t tx="amd.20150915170743.41">
-reveal.js comes with a few themes built in: &lt;br&gt;
-&lt;!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. --&gt;
-&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;"&gt;Black (default)&lt;/a&gt; -
-</t>
-<t tx="amd.20150915170743.42">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;"&gt;White&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915170743.43">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;"&gt;League&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915170743.44">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;"&gt;Sky&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915170743.45">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;"&gt;Beige&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915170743.46">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;"&gt;Simple&lt;/a&gt; </t>
-<t tx="amd.20150915170743.47">&lt;br&gt;
-						&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;"&gt;Serif&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915170743.48">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/blood.css'); return false;"&gt;Blood&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915170743.49">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;"&gt;Night&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915170743.5">&lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
-&lt;meta name="author" content="Hakim El Hattab"&gt;
-&lt;meta name="apple-mobile-web-app-capable" content="yes" /&gt;
-&lt;meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" /&gt;
-		</t>
-<t tx="amd.20150915170743.50">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;"&gt;Moon&lt;/a&gt; -
-						</t>
-<t tx="amd.20150915170743.51">&lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;"&gt;Solarized&lt;/a&gt;
-					</t>
-<t tx="amd.20150915170743.52">&lt;h2&gt;Slide Backgrounds&lt;/h2&gt;
-						</t>
-<t tx="amd.20150915170743.53">&lt;p&gt;
-@others
-&lt;/p&gt;
-						</t>
-<t tx="amd.20150915170743.54">
-Set &lt;code&gt;data-background="#dddddd"&lt;/code&gt; on a slide to change the background color. All CSS color formats are supported.
-</t>
-<t tx="amd.20150915170743.55">&lt;a href="#" class="navigate-down"&gt;
-							&lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
-						&lt;/a&gt;
-					&lt;/section&gt;
-					&lt;section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png"&gt;
-						</t>
-<t tx="amd.20150915170743.56">&lt;h2&gt;Image Backgrounds&lt;/h2&gt;
-						</t>
-<t tx="amd.20150915170743.57">&lt;pre&gt;
-@others
-&lt;/pre&gt;
-&lt;/section&gt;
-						</t>
-<t tx="amd.20150915170743.58">&lt;code&gt;&amp;lt;section data-background="image.png"&amp;gt;&lt;/code&gt;</t>
-<t tx="amd.20150915170743.59">&lt;section data-background="https://s3.amazonaws.com/hakim-static/reveal-js/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px"&gt;
-&lt;h2&gt;Tiled Backgrounds&lt;/h2&gt;
-						</t>
-<t tx="amd.20150915170743.6">&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui"&gt;
-
-    &lt;link rel="stylesheet" href="css/reveal.css"&gt;
-    &lt;link rel="stylesheet" href="css/theme/black.css" id="theme"&gt;
-
-    &lt;!-- Code syntax highlighting --&gt;
-    &lt;link rel="stylesheet" href="lib/css/zenburn.css"&gt;
-
-    &lt;!-- Printing and PDF exports --&gt;
-    &lt;script&gt;
-        var link = document.createElement( 'link' );
-        link.rel = 'stylesheet';
-        link.type = 'text/css';
-        link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-        document.getElementsByTagName( 'head' )[0].appendChild( link );
-    &lt;/script&gt;
-
-    &lt;!--[if lt IE 9]&gt;
-    &lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
-    &lt;![endif]--&gt;
-	</t>
-<t tx="amd.20150915170743.60">&lt;pre&gt;
-@others
-&lt;/pre&gt;
-&lt;/section&gt;
-&lt;section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm" data-background-color="#000000"&gt;
-						</t>
-<t tx="amd.20150915170743.61">&lt;code style="word-wrap: break-word;"&gt;&amp;lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&amp;gt;
-&lt;/code&gt;</t>
-<t tx="amd.20150915170743.62">&lt;div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;"&gt;
-@others
-&lt;/div&gt;
-&lt;/section&gt;
-
-						</t>
-<t tx="amd.20150915170743.63">&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
-&lt;h2&gt;Video Backgrounds&lt;/h2&gt;
-</t>
-<t tx="amd.20150915170743.64">&lt;pre&gt;
-@others
-&lt;/pre&gt;
-						</t>
-<t tx="amd.20150915170743.65">&lt;code style="word-wrap: break-word;"&gt;&amp;lt;section data-background-video="video.mp4,video.webm"&amp;gt;&lt;/code&gt;</t>
-<t tx="amd.20150915170743.66">&lt;h2&gt;... and GIFs!&lt;/h2&gt;
-&lt;/section&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.67">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
-&lt;h2&gt;Background Transitions&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915170743.68">&lt;p&gt;
-						Different background transitions are available via the backgroundTransition option. This one's called "zoom".
-					&lt;/p&gt;
-					</t>
-<t tx="amd.20150915170743.69">&lt;pre&gt;
-@others
-&lt;/pre&gt;
-				&lt;/section&gt;
-
-				&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
-					</t>
-<t tx="amd.20150915170743.7">&lt;body&gt;
-@others
-&lt;/body&gt;
-</t>
-<t tx="amd.20150915170743.70">&lt;code&gt;Reveal.configure({ backgroundTransition: 'zoom' })&lt;/code&gt;</t>
-<t tx="amd.20150915170743.71">&lt;h2&gt;Background Transitions&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915170743.72">&lt;p&gt;
-You can override background transitions per-slide.
-&lt;/p&gt;
-					</t>
-<t tx="amd.20150915170743.73">&lt;pre&gt;
-@others
-&lt;/pre&gt;
-&lt;/section&gt;
-
-
-					</t>
-<t tx="amd.20150915170743.74">&lt;code style="word-wrap: break-word;"&gt;&amp;lt;section data-background-transition="zoom"&amp;gt;&lt;/code&gt;</t>
-<t tx="amd.20150915170743.75">&lt;section&gt;
-    &lt;h2&gt;Pretty Code&lt;/h2&gt;
-    @others
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.76">&lt;pre&gt;
-    &lt;code data-trim contenteditable&gt;
-    @others
-    &lt;/code&gt;
-&lt;/pre&gt;
-					</t>
-<t tx="amd.20150915170743.77">function linkify( selector ) {
-  if( supports3DTransforms ) {
-
-    var nodes = document.querySelectorAll( selector );
-
-    for( var i = 0, len = nodes.length; i &amp;lt; len; i++ ) {
-      var node = nodes[i];
-
-      if( !node.className ) {
-        node.className += ' roll';
-      }
-    }
-  }
-}
-</t>
-<t tx="amd.20150915170743.78">&lt;p&gt;
-Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft/highlight/en/description/"&gt;highlight.js&lt;/a&gt;.
-&lt;/p&gt;
-
-
-
-					</t>
-<t tx="amd.20150915170743.79">&lt;section&gt;
-&lt;h2&gt;Marvelous List&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915170743.8">&lt;div class="reveal"&gt;
-@others
-&lt;/div&gt;
-
-</t>
-<t tx="amd.20150915170743.80">&lt;ul&gt;
-@others
-&lt;/ul&gt;
-&lt;/section&gt;
-					</t>
-<t tx="amd.20150915170743.81">
-&lt;li&gt;No order here&lt;/li&gt;
-</t>
-<t tx="amd.20150915170743.82">&lt;li&gt;Or here&lt;/li&gt;
-						</t>
-<t tx="amd.20150915170743.83">&lt;li&gt;Or here&lt;/li&gt;
-						</t>
-<t tx="amd.20150915170743.84">&lt;li&gt;Or here&lt;/li&gt;
-					</t>
-<t tx="amd.20150915170743.85">&lt;section&gt;
-&lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915170743.86">&lt;ol&gt;
-@others
-&lt;/ol&gt;
-&lt;/section&gt;
-
-					</t>
-<t tx="amd.20150915170743.87">
-&lt;li&gt;One is smaller than...&lt;/li&gt;
-</t>
-<t tx="amd.20150915170743.88">&lt;li&gt;Two is smaller than...&lt;/li&gt;
-						</t>
-<t tx="amd.20150915170743.89">&lt;li&gt;Three!&lt;/li&gt;
-					</t>
-<t tx="amd.20150915170743.9">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
-&lt;div class="slides"&gt;
-@others
-&lt;/div&gt;
-
-</t>
-<t tx="amd.20150915170743.90">&lt;section&gt;
-&lt;h2&gt;Tabular Tables&lt;/h2&gt;
-					</t>
-<t tx="amd.20150915170743.91">&lt;table&gt;
-@others
-&lt;/table&gt;
-&lt;/section&gt;
-
-
-					</t>
-<t tx="amd.20150915170743.92">&lt;thead&gt;
-@others
-&lt;/thead&gt;
-</t>
-<t tx="amd.20150915170743.93">
-&lt;tr&gt;
-@others
-&lt;/tr&gt;
-</t>
-<t tx="amd.20150915170743.94">
-&lt;th&gt;Item&lt;/th&gt;
-</t>
-<t tx="amd.20150915170743.95">&lt;th&gt;Value&lt;/th&gt;
-								</t>
-<t tx="amd.20150915170743.96">&lt;th&gt;Quantity&lt;/th&gt;
-							</t>
-<t tx="amd.20150915170743.97">&lt;tbody&gt;
-@others
-&lt;/tbody&gt;
-					</t>
-<t tx="amd.20150915170743.98">
-&lt;tr&gt;
-@others
-&lt;/tr&gt;
-</t>
-<t tx="amd.20150915170743.99">
-&lt;td&gt;Apples&lt;/td&gt;
-</t>
 <t tx="amd.20150915172241.1">&lt;section id="fragments"&gt;
         &lt;h1&gt;自評說明&lt;/h1&gt;
     &lt;h3 class="fragment"&gt;時效內的 Github 倉儲內容&lt;/h3&gt;
@@ -1989,7 +1993,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
-&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;title&gt;40323150－電腦輔助設計實習&lt;/title&gt;
 &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
