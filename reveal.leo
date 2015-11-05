@@ -297,8 +297,8 @@
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>111</vh></v>
 <v t="amd.20150915211351.9"><vh>222</vh></v>
-<v t="amd.20150915211351.12"><vh>333</vh></v>
 <v t="123.20151105141257.1"><vh>123</vh></v>
+<v t="amd.20150915211351.12"><vh>333</vh></v>
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
@@ -326,7 +326,7 @@
 <v t="123.20151105150052.17"><vh>h2</vh></v>
 <v t="123.20151105150052.18"><vh>h2</vh></v>
 <v t="123.20151105150052.19"><vh>markdown 頁面</vh></v>
-<v t="123.20151105150052.20"><vh>h2</vh>
+<v t="123.20151105150052.20" a="E"><vh>h2</vh>
 <v t="123.20151105150052.21"><vh>Fragement 主頁面</vh></v>
 <v t="123.20151105150052.22" a="E"><vh>下屬頁面</vh>
 <v t="123.20151105150052.23"><vh>h2</vh></v>
@@ -500,7 +500,8 @@
 </vnodes>
 <tnodes>
 <t tx="123.20151105141257.1">&lt;section&gt;
-&lt;iframe src="https://player.vimeo.com/video/144714197" width="1000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h2&gt;Solvespace－Tutorial 實作影片&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/144714197" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/section&gt;</t>
 <t tx="123.20151105150052.1">@language xml
 @tabwidth -4
@@ -2037,9 +2038,14 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 <t tx="amd.20150915211351.7">&lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
-&lt;section id="hw-task-one" data-background="#001100"&gt;
-    &lt;h1&gt;電腦輔助設計&lt;/h1&gt;
-    &lt;p&gt;四設計二甲40323150詹晟弘 104/10/01&lt;/p&gt;		
+&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;
+    &lt;small&gt;
+    電腦輔助設計實習
+    &lt;/small&gt;
+    &lt;/h1&gt; 
+   &lt;p&gt;&lt;strong&gt;Class/Number/Name&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;四設計二甲 40323150 詹晟弘&lt;/p&gt;		
 &lt;/section&gt;
 </t>
 <t tx="amd.20150915211351.9">&lt;section&gt;
@@ -2048,8 +2054,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
     &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
     &lt;/section&gt;
-    &lt;section data-background="#dddddd"&gt;
-    &lt;h1 data-color="#001100"&gt;建立分支#1&lt;/h1&gt; 
+    &lt;section data-background="#000000"&gt;
+    &lt;h1&gt;建立分支#1&lt;/h1&gt; 
     &lt;h1&gt;更換背景&lt;/h1&gt;	
     &lt;/section&gt;
 &lt;/section&gt;
