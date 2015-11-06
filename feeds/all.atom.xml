@@ -1,26 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015-電腦輔助設計實習課程</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-15T20:00:00+08:00</updated><entry><title>2015 電腦輔助設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-15T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-10-15:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;以下為作業5內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015-電腦輔助設計實習課程</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-11-05T20:00:00+08:00</updated><entry><title>2015 電腦輔助設計實習 作業八</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-11-05T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-11-05:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業5投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業四</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-08T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-10-08:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業4內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ８:&lt;/h1&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業七</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-10-29T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-10-29:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業4投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-10-01T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-10-01:reveal/2015cp_hw_w3.html</id><summary type="html">&lt;p&gt;以下為作業3內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ７:&lt;/h1&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業六</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-10-22T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業3投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-24T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-09-24:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;以下為作業2內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ６:&lt;/h1&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-15T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-10-15:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業2投影片&lt;/a&gt;&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/144714197" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-17T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-09-17:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
-&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ５:&lt;/h1&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業四</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-08T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-10-08:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;W1投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ４:&lt;/h1&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-10-01T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-10-01:reveal/2015cp_hw_w3.html</id><summary type="html">&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ３:&lt;/h1&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-24T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-09-24:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ２:&lt;/h1&gt;
+&lt;p&gt;利用Solvespace繪製零件(圖一) &lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;TUTORIAL: DRAWING AN ANGLE BRACKET&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="http://solvespace.com/pics/tut-finished-all-hidden.png" width="250" alt="3D 零件檢視"&gt;&lt;/img&gt;.&lt;/p&gt;
+&lt;h2&gt;&lt;em&gt;※實際操做影片:&lt;/em&gt; &lt;sup id="fnref:2"&gt;&lt;a class="footnote-ref" href="#fn:2" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/144714197" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;圖(一)參考連結:&lt;a href="http://solvespace.com/bracket.pl"&gt;TUTORIAL: DRAWING AN ANGLE BRACKET&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:2"&gt;
+&lt;p&gt;影片連結:&lt;a href="https://vimeo.com/144714197"&gt;40323150-Solvespace Practice&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:2" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-17T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-09-17:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ１:&lt;/h1&gt;
+&lt;p&gt;-----網路架構基本指令操作-------&lt;/p&gt;
 &lt;h1&gt;使用 H1 標題&lt;/h1&gt;
 &lt;p&gt;文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視連續的資料&lt;/p&gt;
 &lt;p&gt;使用. &lt;em&gt;斜體文字&lt;/em&gt;, &lt;strong&gt;黑體文字&lt;/strong&gt;, 以及 &lt;code&gt;單線文字&lt;/code&gt;. 表列資料可以寫為:&lt;/p&gt;

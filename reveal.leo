@@ -43,6 +43,9 @@
 <v t="123.20151015140914.1"><vh>@edit 2015cphww3.md</vh></v>
 <v t="232.20151022141150.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="232.20151022141516.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="leo.20151107010213.1"><vh>@edit 2015cphww6.md</vh></v>
+<v t="leo.20151107010216.1"><vh>@edit 2015cphww7.md</vh></v>
+<v t="leo.20151107010220.1"><vh>@edit 2015cphww8.md</vh></v>
 </v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -295,13 +298,32 @@
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
-<v t="amd.20150915211351.7"><vh>111</vh></v>
-<v t="amd.20150915211351.9"><vh>222</vh></v>
-<v t="123.20151105141257.1"><vh>123</vh></v>
-<v t="amd.20150915211351.12"><vh>333</vh></v>
+<v t="amd.20150915211351.7"><vh>封面</vh></v>
+<v t="leo.20151107023238.1"><vh>目錄</vh></v>
+<v t="leo.20151107024937.1" a="E"><vh>list</vh>
+<v t="leo.20151107024937.2"><vh>1</vh></v>
+<v t="leo.20151107024937.3"><vh>2</vh></v>
+<v t="leo.20151107024937.4"><vh>3</vh></v>
+<v t="leo.20151107024937.5"><vh>4</vh></v>
+<v t="leo.20151107025338.1"><vh>5</vh></v>
+<v t="leo.20151107025340.1"><vh>6</vh></v>
+<v t="leo.20151107025342.1"><vh>7</vh></v>
+<v t="leo.20151107025344.1"><vh>8</vh></v>
+</v>
+<v t="amd.20150915211351.9"><vh>W1</vh></v>
+<v t="leo.20151107030643.1"><vh>W2</vh></v>
+<v t="leo.20151107030648.1"><vh>W3</vh></v>
+<v t="leo.20151107030651.1"><vh>W4</vh></v>
+<v t="leo.20151107030653.1"><vh>W5</vh></v>
+<v t="leo.20151107030654.1"><vh>W6</vh></v>
+<v t="leo.20151107030656.1"><vh>W7</vh></v>
+<v t="leo.20151107030658.1"><vh>W8</vh></v>
+<v t="123.20151105141257.1"><vh>影片</vh></v>
+<v t="amd.20150915211351.12"><vh>結束</vh></v>
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
+<v t="leo.20151107003117.1"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -317,7 +339,7 @@
 <v t="123.20151105150052.9" a="E"><vh>div - slides</vh>
 <v t="123.20151105150052.10"><vh>h1 - 一般單頁</vh></v>
 <v t="123.20151105150052.11"><vh>h2</vh></v>
-<v t="123.20151105150052.12"><vh>h2 - 垂直有下屬頁</vh>
+<v t="123.20151105150052.12" a="E"><vh>h2 - 垂直有下屬頁</vh>
 <v t="123.20151105150052.13"><vh>h2</vh></v>
 <v t="123.20151105150052.14"><vh>h2</vh></v>
 <v t="123.20151105150052.15"><vh>h2</vh></v>
@@ -349,7 +371,7 @@
 <v t="123.20151105150052.38"><vh>a</vh></v>
 </v>
 <v t="123.20151105150052.39"><vh>h2 - 更換主題</vh></v>
-<v t="123.20151105150052.40" a="E"><vh>p</vh>
+<v t="123.20151105150052.40"><vh>p</vh>
 <v t="123.20151105150052.41"><vh>a</vh></v>
 <v t="123.20151105150052.42"><vh>a</vh></v>
 <v t="123.20151105150052.43"><vh>a</vh></v>
@@ -363,12 +385,12 @@
 <v t="123.20151105150052.51"><vh>a</vh></v>
 </v>
 <v t="123.20151105150052.52"><vh>h2</vh></v>
-<v t="123.20151105150052.53"><vh>p</vh>
+<v t="123.20151105150052.53" a="E"><vh>p</vh>
 <v t="123.20151105150052.54"><vh>code</vh></v>
 </v>
 <v t="123.20151105150052.55"><vh>a</vh></v>
 <v t="123.20151105150052.56"><vh>h2</vh></v>
-<v t="123.20151105150052.57"><vh>pre</vh>
+<v t="123.20151105150052.57" a="E"><vh>pre</vh>
 <v t="123.20151105150052.58"><vh>code</vh></v>
 </v>
 <v t="123.20151105150052.59"><vh>h2 - 背景填圖頁面</vh></v>
@@ -406,7 +428,7 @@
 <v t="123.20151105150052.84"><vh>li</vh></v>
 </v>
 <v t="123.20151105150052.85"><vh>h2</vh></v>
-<v t="123.20151105150052.86"><vh>ol</vh>
+<v t="123.20151105150052.86" a="E"><vh>ol</vh>
 <v t="123.20151105150052.87"><vh>li</vh></v>
 <v t="123.20151105150052.88"><vh>li</vh></v>
 <v t="123.20151105150052.89"><vh>li</vh></v>
@@ -473,7 +495,7 @@
 </v>
 <v t="123.20151105150052.135"><vh>h2 按下 b 或 . 可以 black 畫面</vh></v>
 <v t="123.20151105150052.136"><vh>p</vh></v>
-<v t="123.20151105150052.137" a="E"><vh>h2 unordered list 頁面</vh>
+<v t="123.20151105150052.137"><vh>h2 unordered list 頁面</vh>
 <v t="123.20151105150052.138"><vh>li</vh>
 <v t="123.20151105150052.139"><vh>a</vh></v>
 </v>
@@ -2003,13 +2025,13 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 	&lt;![endif]--&gt;
 &lt;/head&gt;
 @others
-</t>
-<t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;成績自評分數＆心得&lt;/h1&gt;
+&lt;/html&gt;</t>
+<t tx="amd.20150915211351.12">    &lt;section&gt;
+    &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
     &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
     自評:80&lt;/p&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
-&lt;/section&gt;
+    &lt;/section&gt;
 				
 </t>
 <t tx="amd.20150915211351.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2044,22 +2066,31 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     電腦輔助設計實習
     &lt;/small&gt;
     &lt;/h1&gt; 
-   &lt;p&gt;&lt;strong&gt;Class/Number/Name&lt;/strong&gt;&lt;/p&gt;
+   &lt;p&gt;&lt;strong&gt;#Class/#Number/#Name&lt;/strong&gt;&lt;/p&gt;
     &lt;p&gt;四設計二甲 40323150 詹晟弘&lt;/p&gt;		
 &lt;/section&gt;
 </t>
-<t tx="amd.20150915211351.9">&lt;section&gt;
+<t tx="amd.20150915211351.9">&lt;section id="w1" data-background="#FF0000"&gt;
     &lt;section&gt;
     &lt;h1&gt;作業Mission-1&lt;/h1&gt;
     &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
     &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
     &lt;/section&gt;
-    &lt;section data-background="#000000"&gt;
-    &lt;h1&gt;建立分支#1&lt;/h1&gt; 
-    &lt;h1&gt;更換背景&lt;/h1&gt;	
+    &lt;section&gt;
+    &lt;h1&gt;筆記 note&lt;/h1&gt; 
+    &lt;p&gt;1.上課攜帶筆記本、耳機、隨身硬碟&lt;/p&gt;	
+    &lt;p&gt;2.建立工程環境-(Ana3_lite2.7z)&lt;/p&gt;	
+    &lt;p&gt;3.上課用電子書&lt;a href="http://www.sciencedirect.com/science/article/pii/B9780815514473500029"&gt;Engineering Problem Solving&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+     &lt;section&gt;
+    &lt;h1&gt;&lt;small&gt;自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+    &lt;p&gt;新學期開始了，該準備收收心回來上課了，這學期"電腦輔助設計實習"感覺會學到蠻多新東西的，雖然剛開始拉，很多都聽不懂...還有許多地方還可以更好喔!&lt;/p&gt;
+    &lt;p&gt;自評分數: 70分&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
     &lt;/section&gt;
 &lt;/section&gt;
-				
+    				
 </t>
 <t tx="amd.20150917085040.1">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
@@ -2269,6 +2300,193 @@ g.es("pelican 執行完畢")</t>
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;
+</t>
+<t tx="leo.20151107003117.1">&lt;script&gt;
+
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+		&lt;/script&gt;
+
+	</t>
+<t tx="leo.20151107023238.1">&lt;section&gt;
+    &lt;h1&gt;&lt;small&gt;◎目錄&lt;/small&gt;&lt;/h1&gt;
+    
+				
+</t>
+<t tx="leo.20151107024937.1">&lt;ol&gt;
+@others
+&lt;/ol&gt;
+&lt;/section&gt;
+					</t>
+<t tx="leo.20151107024937.2">&lt;li&gt;&lt;p&gt;&lt;small&gt;W1-利用 Leo Editor 摘要重點, 建立個人 Github 課程倉儲&lt;a href="#/w1"&gt;→&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;
+   </t>
+<t tx="leo.20151107024937.3">&lt;li&gt;&lt;p&gt;&lt;small&gt;W2-完成 Solvespace所提供的 Tutorial,學會使用基本操作&lt;a href="#/w2"&gt;→&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20151107024937.4">&lt;li&gt;&lt;p&gt;&lt;small&gt;W3-學習 Creo Parametric 最基本的零件繪製&lt;a href="#/w3"&gt;→&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20151107024937.5">&lt;li&gt;&lt;p&gt;&lt;small&gt;W4-利用 Solvespace 與 Creo 繪製折疊電動自行車零件&lt;a href="#/w4"&gt;→&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20151107025338.1">&lt;li&gt;&lt;p&gt;&lt;small&gt;W5-利用 Solvespace 與 Creo 繪製折疊電動自行車零件&lt;a href="#/w5"&gt;→&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20151107025340.1">&lt;li&gt;&lt;p&gt;&lt;small&gt;W6-利用 Solvespace 與 Creo 繪製折疊電動自行車零件&lt;a href="#/w6"&gt;→&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20151107025342.1">&lt;li&gt;&lt;p&gt;&lt;small&gt;W7-利用 Solvespace 與 Creo 繪製折疊電動自行車零件&lt;a href="#/w7"&gt;→&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20151107025344.1">&lt;li&gt;&lt;p&gt;&lt;small&gt;W8-利用 Solvespace 與 Creo 繪製折疊電動自行車零件&lt;a href="#/w8"&gt;→&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20151107030643.1">&lt;section id="w2" data-background="#ff8000"&gt;
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-2&lt;/h1&gt;
+    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
+    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;筆記 note&lt;/h1&gt; 
+    &lt;p&gt;1.reveal.js 倉儲&lt;/p&gt;	
+    &lt;p&gt;2.指令學習:&lt;small&gt;git branch-檢查分支，git branch *gh-pages*-建立分支**內為分支名稱，git checkout*gh-pages*-切換分支，dir-檔案資料，git push origin gh-pages - 將近端資料推到遠端分支&lt;/small&gt;&lt;/p&gt;	
+    &lt;p&gt;3.上課用電子書&lt;a href="http://www.sciencedirect.com/science/article/pii/B9780815514473500029"&gt;Engineering Problem Solving&lt;/a&gt;&lt;/p&gt;	
+    &lt;/section&gt;
+     &lt;section&gt;
+    &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
+    自評:80&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151107030648.1">&lt;section id="w3" data-background="#FFD306"&gt;
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-3&lt;/h1&gt;
+    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
+    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;建立分支#1&lt;/h1&gt; 
+    &lt;h1&gt;更換背景&lt;/h1&gt;	
+    &lt;/section&gt;
+     &lt;section&gt;
+    &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
+    自評:80&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151107030651.1">&lt;section id="w4"data-background="#00BB00"&gt;
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-4&lt;/h1&gt;
+    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
+    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;建立分支#1&lt;/h1&gt; 
+    &lt;h1&gt;更換背景&lt;/h1&gt;	
+    &lt;/section&gt;
+     &lt;section&gt;
+    &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
+    自評:80&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151107030653.1">&lt;section id="w5"data-background="#00AEAE"&gt;
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-5&lt;/h1&gt;
+    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
+    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;建立分支#1&lt;/h1&gt; 
+    &lt;h1&gt;更換背景&lt;/h1&gt;	
+    &lt;/section&gt;
+     &lt;section&gt;
+    &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
+    自評:80&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151107030654.1">&lt;section id="w6"data-background="#0000C6"&gt;
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-6&lt;/h1&gt;
+    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
+    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;建立分支#1&lt;/h1&gt; 
+    &lt;h1&gt;更換背景&lt;/h1&gt;	
+    &lt;/section&gt;
+     &lt;section&gt;
+    &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
+    自評:80&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151107030656.1">&lt;section id="w7"data-background="#9F4D95"&gt;
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-7&lt;/h1&gt;
+    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
+    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;建立分支#1&lt;/h1&gt; 
+    &lt;h1&gt;更換背景&lt;/h1&gt;	
+    &lt;/section&gt;
+     &lt;section&gt;
+    &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
+    自評:80&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151107030658.1">&lt;section id="w8" data-background="#000000"&gt;
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-8&lt;/h1&gt;
+    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
+    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h1&gt;建立分支#1&lt;/h1&gt; 
+    &lt;h1&gt;更換背景&lt;/h1&gt;	
+    &lt;/section&gt;
+     &lt;section&gt;
+    &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
+    自評:80&lt;/p&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+				
 </t>
 </tnodes>
 </leo_file>

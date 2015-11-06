@@ -46,7 +46,7 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-DISQUS_SITENAME = "2015fall"
+DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
 
 # 必須絕對目錄或相對於設定檔案所在目錄
