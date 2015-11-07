@@ -300,7 +300,7 @@
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>封面</vh></v>
 <v t="leo.20151107023238.1"><vh>目錄</vh></v>
-<v t="leo.20151107024937.1" a="E"><vh>list</vh>
+<v t="leo.20151107024937.1"><vh>list</vh>
 <v t="leo.20151107024937.2"><vh>1</vh></v>
 <v t="leo.20151107024937.3"><vh>2</vh></v>
 <v t="leo.20151107024937.4"><vh>3</vh></v>
@@ -2026,10 +2026,9 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;/head&gt;
 @others
 &lt;/html&gt;</t>
-<t tx="amd.20150915211351.12">    &lt;section&gt;
-    &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
-    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
-    自評:80&lt;/p&gt;
+<t tx="amd.20150915211351.12">    &lt;section style="text-align: left;"&gt;
+&lt;h1&gt;THE END&lt;/h1&gt;
+&lt;h3&gt;created by Cheng hong&lt;/h3&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
     &lt;/section&gt;
 				
@@ -2070,24 +2069,24 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;p&gt;四設計二甲 40323150 詹晟弘&lt;/p&gt;		
 &lt;/section&gt;
 </t>
-<t tx="amd.20150915211351.9">&lt;section id="w1" data-background="#FF0000"&gt;
+<t tx="amd.20150915211351.9">&lt;section id="w1"data-background="#FF0000"&gt;
     &lt;section&gt;
     &lt;h1&gt;作業Mission-1&lt;/h1&gt;
-    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
     &lt;/section&gt;
     &lt;section&gt;
-    &lt;h1&gt;筆記 note&lt;/h1&gt; 
+    &lt;h1&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h1&gt; 
     &lt;p&gt;1.上課攜帶筆記本、耳機、隨身硬碟&lt;/p&gt;	
     &lt;p&gt;2.建立工程環境-(Ana3_lite2.7z)&lt;/p&gt;	
     &lt;p&gt;3.上課用電子書&lt;a href="http://www.sciencedirect.com/science/article/pii/B9780815514473500029"&gt;Engineering Problem Solving&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;4.Vimeo 影片嵌入&lt;/p&gt;
+    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
      &lt;section&gt;
     &lt;h1&gt;&lt;small&gt;自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
     &lt;p&gt;新學期開始了，該準備收收心回來上課了，這學期"電腦輔助設計實習"感覺會學到蠻多新東西的，雖然剛開始拉，很多都聽不懂...還有許多地方還可以更好喔!&lt;/p&gt;
     &lt;p&gt;自評分數: 70分&lt;/p&gt;
-    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;p&gt;－&lt;a href="/#2"&gt;top&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;
     				
@@ -2346,84 +2345,98 @@ g.es("pelican 執行完畢")</t>
 <t tx="leo.20151107025340.1">&lt;li&gt;&lt;p&gt;&lt;small&gt;W6-利用 Solvespace 與 Creo 繪製折疊電動自行車零件&lt;a href="#/w6"&gt;→&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
 <t tx="leo.20151107025342.1">&lt;li&gt;&lt;p&gt;&lt;small&gt;W7-利用 Solvespace 與 Creo 繪製折疊電動自行車零件&lt;a href="#/w7"&gt;→&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
 <t tx="leo.20151107025344.1">&lt;li&gt;&lt;p&gt;&lt;small&gt;W8-利用 Solvespace 與 Creo 繪製折疊電動自行車零件&lt;a href="#/w8"&gt;→&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
-<t tx="leo.20151107030643.1">&lt;section id="w2" data-background="#ff8000"&gt;
+<t tx="leo.20151107030643.1">&lt;section id="w2"data-background="#ff8000"&gt;
     &lt;section&gt;
     &lt;h1&gt;作業Mission-2&lt;/h1&gt;
-    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
     &lt;/section&gt;
     &lt;section&gt;
-    &lt;h1&gt;筆記 note&lt;/h1&gt; 
+    &lt;h1&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h1&gt; 
     &lt;p&gt;1.reveal.js 倉儲&lt;/p&gt;	
-    &lt;p&gt;2.指令學習:&lt;small&gt;git branch-檢查分支，git branch *gh-pages*-建立分支**內為分支名稱，git checkout*gh-pages*-切換分支，dir-檔案資料，git push origin gh-pages - 將近端資料推到遠端分支&lt;/small&gt;&lt;/p&gt;	
-    &lt;p&gt;3.上課用電子書&lt;a href="http://www.sciencedirect.com/science/article/pii/B9780815514473500029"&gt;Engineering Problem Solving&lt;/a&gt;&lt;/p&gt;	
+    &lt;p&gt;2.指令學習:
+    &lt;p&gt;&lt;small&gt;※git branch-檢查分支.※git branch *gh-pages*-建立分支(**內為分支名稱)&lt;/small&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;small&gt;※git checkout*gh-pages*-切換分支.※dir-檔案資料&lt;/small&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;small&gt;※git push origin gh-pages - 將近端資料推到遠端分支&lt;/small&gt;&lt;/p&gt;	
+    &lt;p&gt;3.建立&lt;a href="http://40323150.github.io/2015cadp"&gt;個人Git hub&lt;/a&gt;課程倉儲網站&lt;/p&gt;	
     &lt;/section&gt;
      &lt;section&gt;
     &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
-    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
-    自評:80&lt;/p&gt;
-    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;p&gt;剛開始很多部分還是蠻模糊的，不過經過老師一步一步講解後，就比較好跟上進度，再加上有操作影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!&lt;/p&gt;
+    &lt;p&gt;自評分數: 75分&lt;/p&gt;
+    &lt;p&gt;－&lt;a href="#/3"&gt;top&lt;/a&gt;
     &lt;/section&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20151107030648.1">&lt;section id="w3" data-background="#FFD306"&gt;
+<t tx="leo.20151107030648.1">&lt;section id="w3"data-background="#FFD306"&gt;
     &lt;section&gt;
     &lt;h1&gt;作業Mission-3&lt;/h1&gt;
-    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
     &lt;/section&gt;
     &lt;section&gt;
-    &lt;h1&gt;建立分支#1&lt;/h1&gt; 
-    &lt;h1&gt;更換背景&lt;/h1&gt;	
+    &lt;h1&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h1&gt; 
+    &lt;p&gt;1.利用Leo editer製作各週作業分支&lt;/p&gt;	
+    &lt;p&gt;2.&lt;a href="http://solvespace.com/tutorial.pl"&gt;Solvespace&lt;/a&gt;介紹&lt;/p&gt;	
+    &lt;p&gt;3.利用Leo editer編輯&lt;a href="http://40323150.github.io/2015cadp/simplest.html"&gt;作業&lt;/a&gt;投影片&lt;/p&gt;	
     &lt;/section&gt;
      &lt;section&gt;
     &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
-    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
-    自評:80&lt;/p&gt;
-    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;p&gt;用投影片弄得有點煩，一直無法修改，或達不到想要呈現的樣子，還得多加練習reveal.js 的基本語法，又新增了一樣繪圖軟體-Solvespace。整體上漸漸能熟悉工作環境並且能協助同學架設網站&lt;/p&gt;
+    &lt;p&gt;自評分數: 80分&lt;/p&gt;
+    &lt;p&gt;－&lt;a href="#/4"&gt;top&lt;/a&gt;
     &lt;/section&gt;
 &lt;/section&gt;
+
+
+
+
 				
 </t>
 <t tx="leo.20151107030651.1">&lt;section id="w4"data-background="#00BB00"&gt;
     &lt;section&gt;
     &lt;h1&gt;作業Mission-4&lt;/h1&gt;
-    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
     &lt;/section&gt;
     &lt;section&gt;
-    &lt;h1&gt;建立分支#1&lt;/h1&gt; 
-    &lt;h1&gt;更換背景&lt;/h1&gt;	
+    &lt;h1&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h1&gt; 
+    &lt;p&gt;使用pelican建立作業分支&lt;/p&gt;	
+    &lt;p&gt;2.製作Solvespace作業影片&lt;/p&gt;
+    &lt;p&gt;&lt;a href="https://vimeo.com/144714197"&gt;40323150 Solvespace－Tutorial 實作影片&lt;/a&gt; 點選觀看&lt;/p&gt;
+    &lt;p&gt;或&lt;a href="#/5/2"&gt;slide down↓&lt;/a&gt;&lt;/p&gt;	
+    &lt;p&gt;3.Creo Parametric 基本操作，可參考&lt;a href="https://copy.com/97ZkQ0UqfVUPTxn8"&gt;這裡&lt;/a&gt;&lt;/p&gt;	
     &lt;/section&gt;
+    &lt;section&gt;
+&lt;h2&gt;Solvespace－Tutorial 實作影片&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/144714197" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/section&gt;
      &lt;section&gt;
     &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
-    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
-    自評:80&lt;/p&gt;
-    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;p&gt;使用Solvespace嘗試繪製零件，其實和其他繪圖軟體差不多，熟悉一些動作指令，以及網站參考資料，照著圖片跟著步驟，就能做出需要的模型。&lt;/p&gt;
+    &lt;p&gt;自評分數: 85分&lt;/p&gt;
+    &lt;p&gt;－&lt;a href="#/5"&gt;top&lt;/a&gt;
     &lt;/section&gt;
 &lt;/section&gt;
 				
+
+
+
+
 </t>
 <t tx="leo.20151107030653.1">&lt;section id="w5"data-background="#00AEAE"&gt;
     &lt;section&gt;
     &lt;h1&gt;作業Mission-5&lt;/h1&gt;
-    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
     &lt;/section&gt;
     &lt;section&gt;
-    &lt;h1&gt;建立分支#1&lt;/h1&gt; 
-    &lt;h1&gt;更換背景&lt;/h1&gt;	
+    &lt;h1&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h1&gt; 
+    &lt;p&gt;Pro/Engineer Mechanism &lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m"&gt;&lt;/a&gt;&lt;/p&gt;	
+    &lt;p&gt;2.繼續完成各項進度&lt;small&gt;ex:網路建立及修正&lt;/small&gt;&lt;/p&gt;
     &lt;/section&gt;
      &lt;section&gt;
     &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
-    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
-    自評:80&lt;/p&gt;
-    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;p&gt;漸入佳境，開始熟悉程式環境，並且能更有效建立及修改網站架構等等
+    &lt;p&gt;自評:75&lt;/p&gt;
+    &lt;p&gt;－&lt;a href="#/6"&gt;top&lt;/a&gt;
     &lt;/section&gt;
 &lt;/section&gt;
 				
@@ -2431,19 +2444,18 @@ g.es("pelican 執行完畢")</t>
 <t tx="leo.20151107030654.1">&lt;section id="w6"data-background="#0000C6"&gt;
     &lt;section&gt;
     &lt;h1&gt;作業Mission-6&lt;/h1&gt;
-    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
     &lt;/section&gt;
     &lt;section&gt;
-    &lt;h1&gt;建立分支#1&lt;/h1&gt; 
-    &lt;h1&gt;更換背景&lt;/h1&gt;	
+    &lt;h1&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h1&gt; 
+    &lt;p&gt;1.至Git hub建立全班協同網站&lt;/p&gt;
+    &lt;p&gt;連結請參考:&lt;a href="https://github.com/2015fallhw/2015fallcadpa"&gt;全班協同倉儲&lt;/a&gt;&lt;/p&gt;	
     &lt;/section&gt;
      &lt;section&gt;
     &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
-    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
-    自評:80&lt;/p&gt;
-    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;p&gt;開始整班協同倉儲，將自己進度上傳至協同網站，剛開始比較混亂，有些人傳錯檔案，導致後續同學下載錯誤檔案，也因可能過多人同時上傳，導致網路系統崩潰。&lt;/p&gt;
+    &lt;p&gt;自評:70&lt;/p&gt;
+    &lt;p&gt;－&lt;a href="#/7"&gt;top&lt;/a&gt;
     &lt;/section&gt;
 &lt;/section&gt;
 				
@@ -2451,39 +2463,40 @@ g.es("pelican 執行完畢")</t>
 <t tx="leo.20151107030656.1">&lt;section id="w7"data-background="#9F4D95"&gt;
     &lt;section&gt;
     &lt;h1&gt;作業Mission-7&lt;/h1&gt;
-    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
     &lt;/section&gt;
     &lt;section&gt;
-    &lt;h1&gt;建立分支#1&lt;/h1&gt; 
-    &lt;h1&gt;更換背景&lt;/h1&gt;	
+    &lt;h1&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h1&gt; 
+    &lt;p&gt;1.二甲 CADP 全班協同作業&lt;/p&gt;
+    &lt;p&gt;連結請參考:&lt;a href="http://2015fallhw.github.io/2015fallcadpa/"&gt;2015FALL 作業主頁&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;2.全班協同作業－40323150&lt;/p&gt;
+    &lt;p&gt;連結請參考:&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323150/"&gt;2015-電腦輔助設計實習課程&lt;/a&gt;&lt;/p&gt;	
     &lt;/section&gt;
      &lt;section&gt;
     &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
-    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
+    &lt;p&gt;成功將各自進度上傳至協同作業網站，並建立分支，及修改各項連結&lt;/p&gt;
     自評:80&lt;/p&gt;
-    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;p&gt;－&lt;a href="#/8"&gt;top&lt;/a&gt;
     &lt;/section&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20151107030658.1">&lt;section id="w8" data-background="#000000"&gt;
     &lt;section&gt;
-    &lt;h1&gt;作業Mission-8&lt;/h1&gt;
-    &lt;p&gt;Vimeo 影片嵌入&lt;/p&gt;
-    &lt;p&gt;請連結→ &lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech from 虎尾科大機械設計工程系&lt;/a&gt;
     &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
     &lt;/section&gt;
     &lt;section&gt;
-    &lt;h1&gt;建立分支#1&lt;/h1&gt; 
-    &lt;h1&gt;更換背景&lt;/h1&gt;	
+    &lt;h1&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h1&gt; 
+    &lt;p&gt;1.2015 Fall CADP W8 總結&lt;/p&gt;
+    &lt;p&gt;連結請參考:&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4281#more-4281"&gt;2015 Fall CADP W8 總結&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;2.CADP-二甲組員連結:&lt;/p&gt;
+    &lt;p&gt;連結請參考:&lt;a href="http://2015fallhw.github.io/2015fallcadpa/2015cp_hw_w7.html"&gt;2015 電腦輔助設計實習甲班 W7 示範&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
      &lt;section&gt;
     &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
-    &lt;p&gt;剛開始教得很難，不過之後有一步一步講解後，就比較好跟上進度，再加上有影片等，漸漸能完成本次作業，很高興能看到網站架構成功!!
-    自評:80&lt;/p&gt;
-    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;p&gt;學習到這裡，終於也快經過半個學期了，總結這半學期所學到的東西也不少，時間很快就流逝掉了，以後還得多加努力!!!&lt;/p&gt;
+    &lt;p&gt;自評:85&lt;/p&gt;
+    &lt;p&gt;－&lt;a href="#/9"&gt;top&lt;/a&gt;
     &lt;/section&gt;
 &lt;/section&gt;
 				
