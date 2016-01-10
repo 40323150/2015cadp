@@ -37,18 +37,224 @@
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1" a="E"><vh>@button pelican content</vh>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
-<v t="123.20151029135645.1"><vh>@edit 2015cpnote1.md</vh></v>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="leo.20151012231334.1"><vh>@edit 2015cphww2.md</vh></v>
-<v t="123.20151015140914.1"><vh>@edit 2015cphww3.md</vh></v>
-<v t="232.20151022141150.1"><vh>@edit 2015cphww4.md</vh></v>
-<v t="232.20151022141516.1"><vh>@edit 2015cphww5.md</vh></v>
-<v t="leo.20151107010213.1"><vh>@edit 2015cphww6.md</vh></v>
-<v t="leo.20151107010216.1"><vh>@edit 2015cphww7.md</vh></v>
-<v t="leo.20151107010220.1"><vh>@edit 2015cphww8.md</vh></v>
+<v t="leo.20160111012022.1"><vh>@edit 2015cphww end.md</vh></v>
+<v t="leo.20160111012027.1"><vh>@edit 2015cphww17.md</vh></v>
+<v t="leo.20160111012034.1"><vh>@edit 2015cphww16.md</vh></v>
+<v t="leo.20160111012039.1"><vh>@edit 2015cphww15.md</vh></v>
+<v t="leo.20160111012045.1"><vh>@edit 2015cphww14.md</vh></v>
+<v t="leo.20160111012050.1"><vh>@edit 2015cphww13.md</vh></v>
+<v t="leo.20160111012101.1"><vh>@edit 2015cphww12.md</vh></v>
+<v t="leo.20160111012107.1"><vh>@edit 2015cphww11.md</vh></v>
 </v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
+<v t="leo.20160111012131.1"><vh>@clean simplest end.html</vh>
+<v t="leo.20160111012131.2"><vh>檔案說明</vh></v>
+<v t="leo.20160111012131.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160111012131.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160111012131.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160111012131.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160111012131.7" a="E"><vh>封面</vh>
+<v t="leo.20160111012131.41"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012131.9"><vh>目錄</vh>
+<v t="leo.20160111012131.10"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012131.11"><vh>list</vh>
+<v t="leo.20160111012131.12"><vh>1</vh></v>
+<v t="leo.20160111012131.13"><vh>2</vh></v>
+<v t="leo.20160111012131.14"><vh>3</vh></v>
+<v t="leo.20160111012131.15"><vh>4</vh></v>
+<v t="leo.20160111012131.16"><vh>5</vh></v>
+<v t="leo.20160111012131.17"><vh>6</vh></v>
+<v t="leo.20160111012131.18"><vh>7</vh></v>
+<v t="leo.20160111012131.19"><vh>8</vh></v>
+<v t="leo.20160111012131.20"><vh>vid</vh></v>
+<v t="leo.20160111012131.21"><vh>vid</vh></v>
+</v>
+<v t="leo.20160111012131.22"><vh>W11</vh>
+<v t="leo.20160111012131.23"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012131.24"><vh>W12</vh>
+<v t="leo.20160111012131.25"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012131.26"><vh>W13</vh>
+<v t="leo.20160111012131.27"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012131.28"><vh>W14</vh>
+<v t="leo.20160111012131.29"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012131.30"><vh>W15</vh>
+<v t="leo.20160111012131.31"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012131.32"><vh>W16</vh>
+<v t="leo.20160111012131.33"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012131.34"><vh>W17</vh>
+<v t="leo.20160111012131.35"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012131.36"><vh>creo</vh>
+<v t="leo.20160111012131.37"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012131.38"><vh>onshape</vh>
+<v t="leo.20160111012131.39"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012131.40"><vh>結束</vh>
+<v t="leo.20160111012131.41"></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111012131.42"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111012137.1"><vh>@clean simplest17.html</vh>
+<v t="leo.20160111012137.2"><vh>檔案說明</vh></v>
+<v t="leo.20160111012137.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160111012137.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160111012137.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160111012137.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160111012137.7" a="E"><vh>封面</vh>
+<v t="leo.20160111012137.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012137.9" a="E"><vh>W17</vh>
+<v t="leo.20160111012137.12"></v>
+</v>
+<v t="leo.20160111012137.11" a="E"><vh>結束</vh>
+<v t="leo.20160111012137.12"></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111012137.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111012144.1"><vh>@clean simplest16.html</vh>
+<v t="leo.20160111012144.2"><vh>檔案說明</vh></v>
+<v t="leo.20160111012144.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160111012144.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160111012144.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160111012144.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160111012144.7" a="E"><vh>封面</vh>
+<v t="leo.20160111012144.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012144.9" a="E"><vh>W16</vh>
+<v t="leo.20160111012144.12"></v>
+</v>
+<v t="leo.20160111012144.11" a="E"><vh>結束</vh>
+<v t="leo.20160111012144.12"></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111012144.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111012149.1"><vh>@clean simplest15.html</vh>
+<v t="leo.20160111012149.2"><vh>檔案說明</vh></v>
+<v t="leo.20160111012149.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160111012149.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160111012149.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160111012149.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160111012149.7" a="E"><vh>封面</vh>
+<v t="leo.20160111012149.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012149.9" a="E"><vh>W15</vh>
+<v t="leo.20160111012149.12"></v>
+</v>
+<v t="leo.20160111012149.11" a="E"><vh>結束</vh>
+<v t="leo.20160111012149.12"></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111012149.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111012154.1"><vh>@clean simplest14.html</vh>
+<v t="leo.20160111012154.2"><vh>檔案說明</vh></v>
+<v t="leo.20160111012154.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160111012154.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160111012154.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160111012154.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160111012154.7" a="E"><vh>封面</vh>
+<v t="leo.20160111012154.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012154.9" a="E"><vh>W14</vh>
+<v t="leo.20160111012154.12"></v>
+</v>
+<v t="leo.20160111012154.11" a="E"><vh>結束</vh>
+<v t="leo.20160111012154.12"></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111012154.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111012159.1"><vh>@clean simplest13.html</vh>
+<v t="leo.20160111012159.2"><vh>檔案說明</vh></v>
+<v t="leo.20160111012159.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160111012159.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160111012159.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160111012159.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160111012159.7" a="E"><vh>封面</vh>
+<v t="leo.20160111012159.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012159.9" a="E"><vh>W13</vh>
+<v t="leo.20160111012159.12"></v>
+</v>
+<v t="leo.20160111012159.11" a="E"><vh>結束</vh>
+<v t="leo.20160111012159.12"></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111012159.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111012204.1"><vh>@clean simplest12.html</vh>
+<v t="leo.20160111012204.2"><vh>檔案說明</vh></v>
+<v t="leo.20160111012204.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160111012204.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160111012204.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160111012204.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160111012204.7" a="E"><vh>封面</vh>
+<v t="leo.20160111012204.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012204.9" a="E"><vh>W12</vh>
+<v t="leo.20160111012204.12"></v>
+</v>
+<v t="leo.20160111012204.11" a="E"><vh>結束</vh>
+<v t="leo.20160111012204.12"></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111012204.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111012209.1"><vh>@clean simplest11.html</vh>
+<v t="leo.20160111012209.2"><vh>檔案說明</vh></v>
+<v t="leo.20160111012209.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160111012209.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160111012209.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160111012209.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160111012209.7" a="E"><vh>封面</vh>
+<v t="leo.20160111012209.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160111012209.9" a="E"><vh>W11</vh>
+<v t="leo.20160111012209.12"></v>
+</v>
+<v t="leo.20160111012209.11" a="E"><vh>結束</vh>
+<v t="leo.20160111012209.12"></v>
+</v>
+</v>
+</v>
+<v t="leo.20160111012209.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
@@ -292,7 +498,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -327,7 +533,7 @@
 </v>
 </v>
 </v>
-<v t="123.20151105150052.1" a="E"><vh>@clean v31ref.html</vh>
+<v t="123.20151105150052.1"><vh>@clean v31ref.html</vh>
 <v t="123.20151105150052.2" a="E"><vh>html 標註</vh>
 <v t="123.20151105150052.3"><vh>head</vh>
 <v t="123.20151105150052.4"><vh>title - 標題</vh></v>
@@ -2502,5 +2708,1127 @@ g.es("pelican 執行完畢")</t>
 &lt;/section&gt;
 				
 </t>
+<t tx="leo.20160111012131.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160111012131.10">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012131.11">&lt;ol&gt;
+@others
+&lt;/ol&gt;
+&lt;/section&gt;
+					</t>
+<t tx="leo.20160111012131.12">&lt;li&gt;&lt;p&gt;&lt;small&gt;W11-建立群組偕同倉儲&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;
+   </t>
+<t tx="leo.20160111012131.13">&lt;li&gt;&lt;p&gt;&lt;small&gt;W12-利用Creo繪製 Nutcracker機構零件&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20160111012131.14">&lt;li&gt;&lt;p&gt;&lt;small&gt;W13-利用Creo繪製 Nutcracker機構零件&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20160111012131.15">&lt;li&gt;&lt;p&gt;&lt;small&gt;W14-利用Creo組合Nutcracker機構&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20160111012131.16">&lt;li&gt;&lt;p&gt;&lt;small&gt;W15-利用Onshape繪製 Nutcracker機構零件&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20160111012131.17">&lt;li&gt;&lt;p&gt;&lt;small&gt;W16-利用Onshape繪製 Nutcracker機構零件&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20160111012131.18">&lt;li&gt;&lt;p&gt;&lt;small&gt;W17-利用Onshape組合Nutcracker機構&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20160111012131.19">&lt;li&gt;&lt;p&gt;&lt;small&gt;期末總結&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20160111012131.2">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160111012131.20">&lt;li&gt;&lt;p&gt;&lt;small&gt;Creo實作影片&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20160111012131.21">&lt;li&gt;&lt;p&gt;&lt;small&gt;Onshape實作影片&lt;/small&gt;&lt;/p&gt;&lt;/li&gt;</t>
+<t tx="leo.20160111012131.22">&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-11&lt;/h1&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;1.期中過後介紹接下來程序&lt;/p&gt;
+            &lt;p&gt;2.介紹Nutcracker機構零件，並使用Creo繪製&lt;/p&gt;
+            &lt;p&gt;3.開始分組，使用組別完成各自進度並上傳至群組網站&lt;/p&gt;
+    &lt;/section&gt;
+     &lt;section&gt;
+     &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;經過半個學期了，考完期中考後，雖然是放下了心中一顆石頭，但過了不久這學期感覺就要結束了，總之希望能把期中那份熱情繼續延續下去。&lt;/p&gt;
+            &lt;p&gt;自評分數:75分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+    				
+</t>
+<t tx="leo.20160111012131.23">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012131.24">&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-12&lt;/h1&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;1.利用Creo繪製 Nutcracker機構零件&lt;/p&gt;
+            &lt;p&gt;2.Nutcracker機構零件&lt;/p&gt; 
+            &lt;p&gt;連結請參考:&lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m"&gt;Nutcracker機構零件&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;3.各組協同網站:&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="http://2015fallhw.github.io/2015fallcadpa/"&gt;2015FALL CADPA 作業主頁&lt;/a&gt;&lt;/p&gt;
+        &lt;/section&gt;
+        &lt;section&gt;
+            &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;找完組員後，分配各自的工作，開始用Creo繪製Nutcracker機構零件，這週開始要把之前user的節點刪除，得自己編輯新的節點才能備份之前的資料，以及建立新的節點。&lt;/p&gt;
+            &lt;p&gt;自評分數:80分&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+    				
+</t>
+<t tx="leo.20160111012131.25">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012131.26">&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-13&lt;/h1&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;1.利用Creo繪製 Nutcracker機構零件&lt;/p&gt;
+            &lt;p&gt;2.利用fix.bat修復程式環境 開啟Leo編輯倉儲&lt;/p&gt;
+            &lt;p&gt;3.利用leo編輯個人及群組倉儲&lt;/p&gt;
+            &lt;p&gt;4.介紹Header用法&lt;/p&gt;
+        &lt;/section&gt;     
+        &lt;section&gt;
+            &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;介紹了投影片新的用法－header 能將自己的學號固定顯示在投影片上方，也說到了跑馬燈，試了幾個玩一玩，效果感覺還不錯!!對之後製作心得等應該會有很大的用途~~&lt;/p&gt;
+            &lt;p&gt;自評:80&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+    				
+</t>
+<t tx="leo.20160111012131.27">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012131.28">&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-14&lt;/h1&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;1.利用Creo組裝Nutcracker機構零件&lt;/p&gt;
+            &lt;p&gt;2.將Creo繪製出的零件轉檔成.stl檔並放在GITHUB上&lt;/p&gt;
+            &lt;p&gt;3.介紹Onshape&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="https://www.onshape.com/"&gt;Onshape網站&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;4.何謂工程??&lt;br&gt;Ans:利用科學方法解決問題的人&lt;/p&gt;
+        &lt;/section&gt;
+        &lt;section&gt;
+            &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;大致上都把零件繪製好了，大家也試著把零件組合起來，並且開始錄製部分影片，以及編輯個人網站。這次又介紹了一個新的繪圖軟體－Onshape，這個是直接放在網站上的，所以建立好就直接可以在遠端分享，感覺比較方便。&lt;/p&gt;
+            &lt;p&gt;自評:75&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+    				
+</t>
+<t tx="leo.20160111012131.29">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012131.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160111012131.30">&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-15&lt;/h1&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+     &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;1.利用Onshape繪製 Nutcracker機構零件&lt;/p&gt;
+            &lt;p&gt;2.在Onshape上建立偕同，將組員加入，並傳到遠端給老師&lt;/p&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;運用上次提到的Onshape開始繪製Nutcracker機構零件，一樣分組完成零件檔，並且一起偕同，但網路好像不太給力阿，還蠻卡的~下次還是自己帶筆電比較快!!&lt;/p&gt;
+            &lt;p&gt;自評:75&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+    				
+</t>
+<t tx="leo.20160111012131.31">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012131.32">&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-16&lt;/h1&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+   &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;1.利用Onshape繪製 Nutcracker機構零件&lt;/p&gt;
+            &lt;p&gt;2.開始組裝Nutcracker機構及拍攝影片&lt;/p&gt;
+        &lt;/section&gt;      
+        &lt;section&gt;
+            &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;好快呀，一年又要過去了，距離期末也不遠了，這學期又快過完了呢，時間感覺真的過得好快，一下子又過去了，這學期其實也學到了不少東西，每天雖然過得忙碌，卻很充實，期許之後能變得更厲害!!!&lt;/p&gt;
+            &lt;p&gt;自評:80&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+    				
+</t>
+<t tx="leo.20160111012131.33">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012131.34">&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;h1&gt;作業Mission-17&lt;/h1&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;1.開始編輯個人偕同倉儲網站&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323150/"&gt;2015FALL C.A.D.P_A－40323150&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;2.CADP-二甲組員連結:&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="http://2015fallhw.github.io/2015fallcadpa/2015cp_hw_w7.html"&gt;2015 電腦輔助設計實習甲班 W7 示範&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;3.編輯組別偕同倉儲網站&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g8.html"&gt;2015FALL CADPA 作業主頁－G8&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;4.CADP-各組連結:&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/cadpa-ke-cheng.html"&gt;2015FALL CADPA 作業主頁&lt;/a&gt;&lt;/p&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;最後一週了，總結這學期所學的，不論是個人、個人偕同倉儲還增加了一個組別偕同倉儲，用CREO及ONSHAPE組合了一個機構，使用fix建立環境模式(雖然之後都懶得用，直接帶自己的電腦)，投影片HEADER和跑馬燈等，這學期又要過完了，學習永不停止，加油!!!&lt;/p&gt;
+            &lt;p&gt;自評:85&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+    				
+</t>
+<t tx="leo.20160111012131.35">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012131.36">&lt;&lt; header &gt;&gt;
+
+&lt;section&gt;
+&lt;h2&gt;Creo實作影片回顧&lt;/h2&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;Nutcracker機構-Assembly&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150985599" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;BASE&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150805720" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;HINGE&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150805725" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;ADJUSTER BASE&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150805726" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;CYLINDER&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150805722" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;PISTON&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150805724" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;ADJUSTER&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150805723" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;CONNECTION&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150808153" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;HANDLE&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150808152" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+&lt;/section&gt;    				
+</t>
+<t tx="leo.20160111012131.37">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012131.38">&lt;&lt; header &gt;&gt;
+
+&lt;section&gt;
+&lt;h2&gt;Onshape實作影片回顧&lt;/h2&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;Nutcracker機構-Assembly&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150931846" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;BASE&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150932966" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;HINGE&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150927520" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;ADJUSTER BASE&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150927515" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;CYLINDER&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150927519" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;PISTON&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150927521" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;ADJUSTER&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150933506" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;CONNECTION&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150927526" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+    &lt;h2&gt;HANDLE&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/150927524" width="9000" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;
+&lt;/section&gt;    				
+
+</t>
+<t tx="leo.20160111012131.39">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012131.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160111012131.40">&lt;&lt; header &gt;&gt;
+
+    &lt;section style="text-align: left;"&gt;
+&lt;h1&gt;THE END&lt;/h1&gt;
+&lt;h3&gt;created by Cheng hong&lt;/h3&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+			
+				
+</t>
+<t tx="leo.20160111012131.41">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012131.42">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160111012131.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; font-size:20px;background-color: rgba(150,150,0,0.5)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012131.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012131.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section id="hw-task-one"&gt;
+    &lt;p&gt;&lt;font size="5" color= "ffff00"&gt;&lt;marquee direction="down" width="400" height="200" behavior="alternate" style="border:solid"&gt;
+  &lt;marquee behavior="alternate"&gt;
+    #期末報告總結
+  &lt;/marquee&gt;
+&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;
+    &lt;small&gt;
+    電腦輔助設計實習
+    &lt;/small&gt;
+    &lt;/h1&gt; 
+   &lt;p&gt;&lt;strong&gt;#Class/#Number/#Name&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;四設計二甲 40323150 詹晟弘&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;
+
+    
+    
+
+	
+</t>
+<t tx="leo.20160111012131.9">&lt;&lt; header &gt;&gt;
+    &lt;h1&gt;&lt;small&gt;◎目錄&lt;/small&gt;&lt;/h1&gt;
+    
+				
+</t>
+<t tx="leo.20160111012137.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160111012137.11">&lt;&lt; header &gt;&gt;
+
+    &lt;section style="text-align: left;"&gt;
+&lt;h1&gt;THE END&lt;/h1&gt;
+&lt;h3&gt;created by Cheng hong&lt;/h3&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+			
+				
+</t>
+<t tx="leo.20160111012137.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012137.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160111012137.2">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160111012137.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160111012137.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160111012137.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; font-size:20px;background-color: rgba(150,150,0,0.5)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012137.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012137.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;marquee direction="up" height="50" scrollamount="1"&gt;
+本週要點:上傳個週進度至個人、個人偕同及群組偕同&lt;/marquee&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;
+    &lt;small&gt;
+    電腦輔助設計實習
+    &lt;/small&gt;
+    &lt;/h1&gt; 
+   &lt;p&gt;&lt;strong&gt;#Class/#Number/#Name&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;四設計二甲 40323150 詹晟弘&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;
+
+    
+    
+
+	
+</t>
+<t tx="leo.20160111012137.9">&lt;&lt; header &gt;&gt;
+
+        &lt;section&gt;
+            &lt;h1&gt;作業Mission-17&lt;/h1&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;編輯個人偕同倉儲網站&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323150/"&gt;2015FALL C.A.D.P_A－40323150&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;CADP-二甲組員連結:&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="http://2015fallhw.github.io/2015fallcadpa/2015cp_hw_w7.html"&gt;2015 電腦輔助設計實習甲班 W7 示範&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;編輯組別偕同倉儲網站&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g8.html"&gt;2015FALL CADPA 作業主頁－G8&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;CADP-各組連結:&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/cadpa-ke-cheng.html"&gt;2015FALL CADPA 作業主頁&lt;/a&gt;&lt;/p&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;最後一週了，總結這學期所學的，不論是個人、個人偕同倉儲還增加了一個組別偕同倉儲，用CREO及ONSHAPE組合了一個機構，使用fix建立環境模式(雖然之後都懶得用，直接帶自己的電腦)，投影片HEADER和跑馬燈等，這學期又要過完了，學習永不停止，加油!!!&lt;/p&gt;
+            &lt;p&gt;自評:85&lt;/p&gt;
+        &lt;/section&gt;
+        &lt;/section&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20160111012144.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160111012144.11">&lt;&lt; header &gt;&gt;
+
+    &lt;section style="text-align: left;"&gt;
+&lt;h1&gt;THE END&lt;/h1&gt;
+&lt;h3&gt;created by Cheng hong&lt;/h3&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+			
+				
+</t>
+<t tx="leo.20160111012144.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "課程: 電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012144.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160111012144.2">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160111012144.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160111012144.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160111012144.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; font-size:20px;background-color: rgba(150,150,0,0.5)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012144.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012144.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;marquee direction="up" height="50" scrollamount="1"&gt;
+本週要點:開始組裝Nutcracker機構及拍攝影片&lt;/marquee&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;
+    &lt;small&gt;
+    電腦輔助設計實習
+    &lt;/small&gt;
+    &lt;/h1&gt; 
+   &lt;p&gt;&lt;strong&gt;#Class/#Number/#Name&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;四設計二甲 40323150 詹晟弘&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;
+
+    
+    
+
+	
+</t>
+<t tx="leo.20160111012144.9">&lt;&lt; header &gt;&gt;
+
+        &lt;section&gt;
+            &lt;h1&gt;作業Mission-16&lt;/h1&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;利用Onshape繪製 Nutcracker機構零件&lt;/p&gt;
+            &lt;p&gt;開始組裝Nutcracker機構及拍攝影片&lt;/p&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;好快呀，一年又要過去了，距離期末也不遠了，這學期又快過完了呢，時間感覺真的過得好快，一下子又過去了，這學期其實也學到了不少東西，每天雖然過得忙碌，卻很充實，期許之後能變得更厲害!!!&lt;/p&gt;
+            &lt;p&gt;自評:80&lt;/p&gt;
+        &lt;/section&gt;
+        &lt;/section&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20160111012149.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160111012149.11">&lt;&lt; header &gt;&gt;
+
+    &lt;section style="text-align: left;"&gt;
+&lt;h1&gt;THE END&lt;/h1&gt;
+&lt;h3&gt;created by Cheng hong&lt;/h3&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+			
+				
+</t>
+<t tx="leo.20160111012149.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "課程: 電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012149.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160111012149.2">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160111012149.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160111012149.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160111012149.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; font-size:20px;background-color: rgba(150,150,0,0.5)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012149.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012149.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;marquee direction="up" height="50" scrollamount="1"&gt;
+本週要點:在Onshape上建立偕同，將組員加入，並傳到遠端&lt;/marquee&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;
+    &lt;small&gt;
+    電腦輔助設計實習
+    &lt;/small&gt;
+    &lt;/h1&gt; 
+   &lt;p&gt;&lt;strong&gt;#Class/#Number/#Name&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;四設計二甲 40323150 詹晟弘&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;
+
+    
+    
+
+	
+</t>
+<t tx="leo.20160111012149.9">&lt;&lt; header &gt;&gt;
+
+        &lt;section&gt;
+            &lt;h1&gt;作業Mission-15&lt;/h1&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;利用Onshape繪製 Nutcracker機構零件&lt;/p&gt;
+            &lt;p&gt;在Onshape上建立偕同，將組員加入，並傳到遠端給老師&lt;/p&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;運用上次提到的Onshape開始繪製Nutcracker機構零件，一樣分組完成零件檔，並且一起偕同，但網路好像不太給力阿，還蠻卡的~下次還是自己帶筆電比較快!!&lt;/p&gt;
+            &lt;p&gt;自評:75&lt;/p&gt;
+        &lt;/section&gt;
+        &lt;/section&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20160111012154.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160111012154.11">&lt;&lt; header &gt;&gt;
+
+    &lt;section style="text-align: left;"&gt;
+&lt;h1&gt;THE END&lt;/h1&gt;
+&lt;h3&gt;created by Cheng hong&lt;/h3&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+			
+				
+</t>
+<t tx="leo.20160111012154.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "課程: 電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012154.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160111012154.2">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160111012154.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160111012154.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160111012154.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; font-size:20px;background-color: rgba(150,150,0,0.5)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012154.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012154.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+     &lt;marquee behavior="slide"scrollamount="15"&gt;
+何謂工程??&lt;/marquee&gt;
+&lt;marquee behavior="slide"scrollamount="10"&gt;
+Ans:利用科學方法解決問題的人&lt;/marquee&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;
+    &lt;small&gt;
+    電腦輔助設計實習
+    &lt;/small&gt;
+    &lt;/h1&gt; 
+   &lt;p&gt;&lt;strong&gt;#Class/#Number/#Name&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;四設計二甲 40323150 詹晟弘&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;
+
+    
+    
+
+	
+</t>
+<t tx="leo.20160111012154.9">&lt;&lt; header &gt;&gt;
+
+        &lt;section&gt;
+            &lt;h1&gt;作業Mission-14&lt;/h1&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;利用Creo組裝Nutcracker機構零件&lt;/p&gt;
+            &lt;p&gt;將Creo繪製出的零件轉檔成.stl檔並放在GITHUB上&lt;/p&gt;
+            &lt;p&gt;介紹Onshape&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="https://www.onshape.com/"&gt;Onshape網站&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;何謂工程??&lt;br&gt;Ans:利用科學方法解決問題的人&lt;/p&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;大致上都把零件繪製好了，大家也試著把零件組合起來，並且開始錄製部分影片，以及編輯個人網站。這次又介紹了一個新的繪圖軟體－Onshape，這個是直接放在網站上的，所以建立好就直接可以在遠端分享，感覺比較方便。&lt;/p&gt;
+            &lt;p&gt;自評:75&lt;/p&gt;
+        &lt;/section&gt;
+        &lt;/section&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20160111012159.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160111012159.11">&lt;&lt; header &gt;&gt;
+
+    &lt;section style="text-align: left;"&gt;
+&lt;h1&gt;THE END&lt;/h1&gt;
+&lt;h3&gt;created by Cheng hong&lt;/h3&gt;
+    &lt;p&gt;&lt;a href="#/hw-task-one"&gt;返回首頁&lt;/a&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+			
+				
+</t>
+<t tx="leo.20160111012159.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "課程: 電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012159.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160111012159.2">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160111012159.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160111012159.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160111012159.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; font-size:20px;background-color: rgba(150,150,0,0.5)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012159.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012159.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+   &lt;marquee direction="up" height="50" scrollamount="1"&gt;
+本週要點:利用Creo繪製 Nutcracker機構零件&lt;/marquee&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;
+    &lt;small&gt;
+    電腦輔助設計實習
+    &lt;/small&gt;
+    &lt;/h1&gt; 
+   &lt;p&gt;&lt;strong&gt;#Class/#Number/#Name&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;四設計二甲 40323150 詹晟弘&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;
+
+    
+    
+
+	
+</t>
+<t tx="leo.20160111012159.9">&lt;&lt; header &gt;&gt;
+
+        &lt;section&gt;
+            &lt;h1&gt;作業Mission-13&lt;/h1&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;利用Creo繪製 Nutcracker機構零件&lt;/p&gt;
+            &lt;p&gt;利用fix.bat修復程式環境 開啟Leo編輯倉儲&lt;/p&gt;
+            &lt;p&gt;利用leo編輯個人及群組倉儲&lt;/p&gt;
+            &lt;p&gt;介紹Header用法&lt;/p&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;介紹了投影片新的用法－header 能將自己的學號固定顯示在投影片上方，也說到了跑馬燈，試了幾個玩一玩，效果感覺還不錯!!對之後製作心得等應該會有很大的用途~~&lt;/p&gt;
+            &lt;p&gt;自評:80&lt;/p&gt;
+        &lt;/section&gt;
+        &lt;/section&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20160111012204.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160111012204.11">&lt;&lt; header &gt;&gt;
+
+    &lt;section style="text-align: left;"&gt;
+&lt;h1&gt;THE END&lt;/h1&gt;
+&lt;h3&gt;created by Cheng hong&lt;/h3&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+			
+				
+</t>
+<t tx="leo.20160111012204.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習A 學號:40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012204.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160111012204.2">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160111012204.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160111012204.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160111012204.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012204.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012204.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+  &lt;marquee scrollamount="15"&gt;&lt;font size="60"&gt;
+來畫我啊~~~&lt;img src="https://copy.com/mHTybiLVZUdsMnpX" width="400" height="300"&gt;&lt;/font&gt;
+&lt;/marquee&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;
+    &lt;small&gt;
+    電腦輔助設計實習
+    &lt;/small&gt;
+    &lt;/h1&gt; 
+   &lt;p&gt;&lt;strong&gt;#Class/#Number/#Name&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;四設計二甲 40323150 詹晟弘&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;
+
+    
+    
+
+	
+</t>
+<t tx="leo.20160111012204.9">&lt;&lt; header &gt;&gt;
+
+        &lt;section&gt;
+            &lt;h1&gt;作業Mission-12&lt;/h1&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;1.利用Creo繪製 Nutcracker機構零件&lt;/p&gt;
+            &lt;p&gt;2.Nutcracker機構零件&lt;/p&gt; 
+            &lt;p&gt;連結請參考:&lt;a href="https://copy.com/DXQiGkDoe9K8Cz7m"&gt;Nutcracker機構零件&lt;/a&gt;&lt;/p&gt;
+            &lt;p&gt;3.各組協同網站:&lt;/p&gt;
+            &lt;p&gt;連結請參考:&lt;a href="http://2015fallhw.github.io/2015fallcadpa/"&gt;2015FALL CADPA 作業主頁&lt;/a&gt;&lt;/p&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;找完組員後，分配各自的工作，開始用Creo繪製Nutcracker機構零件，這週開始要把之前user的節點刪除，得自己編輯新的節點才能備份之前的資料，以及建立新的節點。&lt;/p&gt;
+            &lt;p&gt;自評分數:80分&lt;/p&gt;
+        &lt;/section&gt;
+        &lt;/section&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20160111012209.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160111012209.11">&lt;&lt; header &gt;&gt;
+
+    &lt;section style="text-align: left;"&gt;
+&lt;h1&gt;THE END&lt;/h1&gt;
+&lt;h3&gt;created by Cheng hong&lt;/h3&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+			
+				
+</t>
+<t tx="leo.20160111012209.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { content: "課程: 電腦輔助設計實習A 學號: 40323150"; }&lt;/style&gt;</t>
+<t tx="leo.20160111012209.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160111012209.2">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160111012209.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160111012209.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160111012209.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; font-size:20px;background-color: rgba(150,150,0,0.5)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012209.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160111012209.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section id="hw-task-one"&gt;
+    &lt;p&gt;&lt;font size="5" color="ffff00"&gt;&lt;marquee scrollamount="10" direction="down" width="400" height="200" behavior="alternate" style="border:solid"&gt;
+  &lt;marquee behavior="alternate"&gt;
+    版本更新於105年01月07日
+  &lt;/marquee&gt;
+&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;
+    &lt;small&gt;
+    電腦輔助設計實習
+    &lt;/small&gt;
+    &lt;/h1&gt; 
+   &lt;p&gt;&lt;strong&gt;#Class/#Number/#Name&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;四設計二甲 40323150 詹晟弘&lt;/p&gt;		
+    &lt;/section&gt;
+&lt;/section&gt;
+
+    
+    
+
+	
+</t>
+<t tx="leo.20160111012209.9">&lt;&lt; header &gt;&gt;
+
+        &lt;section&gt;
+            &lt;h1&gt;作業Mission-11&lt;/h1&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h2&gt;&lt;small&gt;筆記 note／行程 Schedule&lt;/small&gt;&lt;/h2&gt; 
+            &lt;p&gt;期中過後介紹接下來程序&lt;/p&gt;
+            &lt;p&gt;介紹Nutcracker機構零件，並使用Creo繪製&lt;/p&gt;
+            &lt;p&gt;開始分組，使用組別完成各自進度並上傳至群組網站&lt;/p&gt;
+        &lt;/section&gt;
+        
+        &lt;section&gt;
+            &lt;h1&gt;&lt;small&gt;成績自評分數＆心得&lt;/small&gt;&lt;/h1&gt;
+            &lt;p&gt;經過半個學期了，考完期中考後，雖然是放下了心中一顆石頭，但過了不久這學期感覺就要結束了，總之希望能把期中那份熱情繼續延續下去。&lt;/p&gt;
+            &lt;p&gt;自評分數:75分&lt;/p&gt;
+        &lt;/section&gt;
+        &lt;/section&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
